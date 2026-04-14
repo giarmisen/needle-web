@@ -1,0 +1,16 @@
+{
+  "week_from": "04/04/2026",
+  "week_to": "11/04/2026",
+  "albums": [
+    {
+      "artist": "deary",
+      "title": "Birding",
+      "year": 2026,
+      "sources": "The Line of Best Fit 7/10 · Metacritic 76",
+      "description": "A debut album praised for its cohesion.",
+      "aligned": true,
+      "review_url": "https://thelineofbestfit.com/..."
+    }
+  ],
+  "footer": "8 albums recommended this week."
+}

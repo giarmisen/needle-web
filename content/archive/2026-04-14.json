@@ -1,0 +1,93 @@
+{
+  "week_from": "07/04/2026",
+  "week_to": "14/04/2026",
+  "albums": [
+    {
+      "artist": "Juni Habel",
+      "title": "Evergreen In Your Mind",
+      "year": 2026,
+      "sources": "The Line of Best Fit · PopMatters",
+      "description": "Juni Habel presents the perilous beauty of nature as both metaphor and fact, to enlarge and reduce emotions and inhabit a liminal space wherein poetry resides. The album was reviewed positively by The Line of Best Fit on April 10, 2026.",
+      "aligned": true,
+      "review_url": "https://www.thelineofbestfit.com/reviews/albums",
+      "spotify_url": "https://open.spotify.com/album/5BvX4R2kpp1PZW8m7zLYe2",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e025a232780c80bffbe692ca5a0"
+    },
+    {
+      "artist": "Holly Humberstone",
+      "title": "Cruel World",
+      "year": 2026,
+      "sources": "Exclaim! · The Line of Best Fit",
+      "description": "Humberstone comes into her own with 'Cruel World', creating an album that 'somewhat entrances' listeners. It received reviews on April 9, 2026, and April 13, 2026.",
+      "aligned": true,
+      "review_url": "https://exclaim.ca/music/reviews",
+      "spotify_url": "https://open.spotify.com/album/0FTIFzNoKAbv4kjpjbRbDQ",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e0280aedec254f4bfd82f7fa34c"
+    },
+    {
+      "artist": "Emil Mark",
+      "title": "Mellemtid",
+      "year": 2026,
+      "sources": "PopMatters",
+      "description": "Danish composer Emil Mark updates an older instrument, pipe organs, with modern technology in a minimalist approach on 'Mellemtid'. The album was reviewed on April 7, 2026.",
+      "aligned": true,
+      "review_url": "https://www.popmatters.com/",
+      "spotify_url": "https://open.spotify.com/album/2uqZRbXMDda3UJvn7JdMyS",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e025af43d83a435f3d4df5b2f97"
+    },
+    {
+      "artist": "Yaya Bey",
+      "title": "Fidelity",
+      "year": 2026,
+      "sources": "The Line of Best Fit",
+      "description": "Infused with Yaya Bey's sincerity, 'Fidelity' showcases her creative vision. The album was reviewed on April 13, 2026.",
+      "aligned": true,
+      "review_url": "https://www.thelineofbestfit.com/reviews/albums"
+    },
+    {
+      "artist": "Slayyyter",
+      "title": "Wor$t Girl in America",
+      "year": 2026,
+      "sources": "PopMatters",
+      "description": "Slayyyter's third full-length is described as a 'diamond-hard jawbreaker of a pop record, a totally self-immolating blaze of glory, a final roar before extinction'. This pop record was reviewed on April 7, 2026.",
+      "aligned": false,
+      "review_url": "https://www.popmatters.com/",
+      "spotify_url": "https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e024c6a0c9499470002aa8ba96f"
+    },
+    {
+      "artist": "The Format",
+      "title": "Boycott Heaven",
+      "year": 2026,
+      "sources": "PopMatters",
+      "description": "The Format's first LP in 20 years, 'Boycott Heaven' finds them sidestepping the mainstream and landing where they belong. The review was published on April 8, 2026.",
+      "aligned": false,
+      "review_url": "https://www.popmatters.com/",
+      "spotify_url": "https://open.spotify.com/album/4yMJnpezQRZr8MIkNUor1M",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e023ac1dafd952576fb22eefced"
+    },
+    {
+      "artist": "Adam O'Farrill",
+      "title": "ELEPHANT",
+      "year": 2026,
+      "sources": "PopMatters",
+      "description": "Adam O'Farrill's work on 'ELEPHANT' is described as 'simply brilliant,' showcasing his joyous and endlessly curious artistry. This jazz album received a review on April 8, 2026.",
+      "aligned": false,
+      "review_url": "https://www.popmatters.com/",
+      "spotify_url": "https://open.spotify.com/album/2TPhrHtn8Ce1oGlFPWvHVC",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e0236d136a9ff5c8522b04e0ca6"
+    },
+    {
+      "artist": "Idiogram",
+      "title": "Reunion Of Broken Parts",
+      "year": 2026,
+      "sources": "The Progressive Aspect",
+      "description": "This album is refreshingly contemporary, firmly rooted in the 2020s yet unafraid to draw inspiration from earlier eras, with clever arrangements and meticulous mixing. The review was published on April 13, 2026.",
+      "aligned": false,
+      "review_url": "https://www.theprogressiveaspect.net/",
+      "spotify_url": "https://open.spotify.com/album/7qeSf2vcqtQADtFKmfevU6",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02d469b79c534fcace4cd00ab3"
+    }
+  ],
+  "footer": "8 albums recommended this week · AI powered by Gi :)"
+}
