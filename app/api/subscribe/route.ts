@@ -13,6 +13,9 @@ export async function POST(req: NextRequest) {
   }
 
   try {
+    console.log('AUDIENCE_ID:', AUDIENCE_ID);
+    console.log('API KEY exists:', !!process.env.RESEND_API_KEY);
+    
     await resend.contacts.create({
       email,
       unsubscribed: false,
