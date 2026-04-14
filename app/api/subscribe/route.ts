@@ -1,49 +1,42 @@
-import { NextResponse } from "next/server";
-import { google } from "googleapis";
+import { NextRequest, NextResponse } from 'next/server';
+import { Resend } from 'resend';
 
-const SHEET_ID = "1XaHEU5tuGkpVDVCCYz9q4erC05qb60oruFGNE0Smnmg";
-const EMAIL_REGEX = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+const resend = new Resend(process.env.RESEND_API_KEY);
+const AUDIENCE_ID = process.env.RESEND_AUDIENCE_ID!;
+const UNSUBSCRIBE_BASE = 'https://script.google.com/macros/s/AKfycbw0HGM6DlkPXIerAP0okTqWPo71GY2EkzvcUMCtzlGyGQZS5yXE_JnDtNzmRvenRA-1/exec';
 
-type SubscribeRequest = {
-  email?: string;
-};
+export async function POST(req: NextRequest) {
+  const { email } = await req.json();
 
-export async function POST(request: Request) {
+  if (!email || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
+    return NextResponse.json({ error: 'Invalid email' }, { status: 400 });
+  }
+
   try {
-    const body = (await request.json()) as SubscribeRequest;
-    const email = body.email?.trim().toLowerCase() ?? "";
-
-    if (!EMAIL_REGEX.test(email)) {
-      return NextResponse.json({ error: "Please enter a valid email address." }, { status: 400 });
-    }
-
-    const clientEmail = process.env.GOOGLE_SERVICE_ACCOUNT_EMAIL;
-    const privateKey = process.env.GOOGLE_SERVICE_ACCOUNT_PRIVATE_KEY?.replace(/\\n/g, "\n");
-
-    if (!clientEmail || !privateKey) {
-      return NextResponse.json({ error: "Google Sheets credentials are not configured." }, { status: 500 });
-    }
-
-    const auth = new google.auth.JWT({
-      email: clientEmail,
-      key: privateKey,
-      scopes: ["https://www.googleapis.com/auth/spreadsheets"],
+    await resend.contacts.create({
+      email,
+      unsubscribed: false,
+      audienceId: AUDIENCE_ID,
     });
 
-    const sheets = google.sheets({ version: "v4", auth });
-    await sheets.spreadsheets.values.append({
-      spreadsheetId: SHEET_ID,
-      range: "Sheet1!A:B",
-      valueInputOption: "USER_ENTERED",
-      requestBody: {
-        values: [[email, new Date().toISOString()]],
-      },
+    const unsubscribeUrl = `${UNSUBSCRIBE_BASE}?action=unsubscribe&email=${encodeURIComponent(email)}`;
+
+    await resend.emails.send({
+      from: 'The Needle Weekly <onboarding@resend.dev>',
+      to: email,
+      subject: "You're subscribed to The Needle Weekly",
+      html: `
+        <div style="max-width:600px;margin:0 auto;font-family:Georgia,serif;padding:40px 0;">
+          <h1 style="font-family:Arial,sans-serif;font-size:24px;font-weight:900;letter-spacing:-0.5px;margin:0 0 20px;">The Needle Weekly</h1>
+          <p style="font-size:15px;color:#333;line-height:1.7;margin:0 0 16px;">You're in. Every Sunday you'll receive the week's most interesting album releases, filtered by critical consensus across 30+ sources.</p>
+          <p style="font-size:12px;color:#888;margin:32px 0 0;font-family:Arial,sans-serif;">If you want to stop receiving these emails, <a href="${unsubscribeUrl}" style="color:#888;">unsubscribe here</a>.</p>
+        </div>
+      `,
     });
 
     return NextResponse.json({ success: true });
-  } catch (error) {
-    const message = error instanceof Error ? error.message : "Unable to subscribe right now.";
-    return NextResponse.json({ error: message }, { status: 500 });
+  } catch (err) {
+    console.error(err);
+    return NextResponse.json({ error: 'Subscription failed' }, { status: 500 });
   }
 }
-
