@@ -12,7 +12,7 @@ export default function UnsubscribePage({
         </h1>
         {status === 'success' && (
           <p style={{ fontSize: '16px', color: '#333', lineHeight: 1.7 }}>
-            You've been unsubscribed. You won't receive any more emails from The Needle Weekly.
+            You&apos;ve been unsubscribed. You won&apos;t receive any more emails from The Needle Weekly.
           </p>
         )}
         {status === 'notfound' && (
