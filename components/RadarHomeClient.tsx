@@ -3,6 +3,7 @@
 import { useMemo, useState } from "react";
 import Link from "next/link";
 import type { Radar } from "@/lib/radar-types";
+import HeaderWithSubscribe from "@/components/HeaderWithSubscribe";
 
 export type ArchiveItem = {
   week: string;
@@ -70,16 +71,10 @@ export default function RadarHomeClient({ initialWeek, initialRadar, archive }: 
       <div className="mx-auto w-full max-w-5xl">
         <div className="grid grid-cols-1 md:grid-cols-[minmax(0,1fr)_220px]">
           <main className="px-6 py-8 md:px-6">
-            <header className="border-b-2 border-[#1a1a1a] pb-5">
-              <h1 className="text-[32px] font-black tracking-[-2px] text-[#1a1a1a] [font-family:Georgia,Times,'Times_New_Roman',serif] md:text-[48px]">
-                The Needle Weekly
-              </h1>
-              <p className="mt-3 text-[16px] leading-[1.6] text-[#444444] [font-family:Georgia,Times,'Times_New_Roman',serif]">
-                A personal music radar built around shoegaze, dream pop, avant-garde R&amp;B, art pop, and whatever else
-                crosses the threshold. Every Sunday, the albums that made it — filtered by critical consensus across 30+
-                sources.
-              </p>
-            </header>
+            <HeaderWithSubscribe
+              title="The Needle Weekly"
+              description="A personal music radar built around shoegaze, dream pop, avant-garde R&B, art pop, and whatever else crosses the threshold. Every Sunday, the albums that made it — filtered by critical consensus across 30+ sources."
+            />
 
             <div className="mt-8">
               <p className="mb-6 text-[13px] text-[#888888] [font-family:Arial,Helvetica,sans-serif]">
