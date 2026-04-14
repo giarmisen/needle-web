@@ -4,6 +4,9 @@ import { FormEvent, useState } from "react";
 import Link from "next/link";
 import type { Radar, RadarAlbum as Album } from "@/lib/radar-types";
 
+const FRIENDLY_DELAY_MESSAGE =
+  "The radar is taking longer than usual — Gemini is under high demand right now. Wait a minute and try again.";
+
 function spotifySearchUrl(artist: string, title: string) {
   const q = encodeURIComponent(`${artist} ${title}`);
   return `https://open.spotify.com/search/${q}`;
@@ -40,13 +43,15 @@ export default function MyNeedlePage() {
 
       const data = await res.json();
       if (!res.ok) {
-        throw new Error(data?.error ?? "Failed to generate radar.");
+        setError(FRIENDLY_DELAY_MESSAGE);
+        setRadar(null);
+        return;
       }
 
       setRadar(data as Radar);
     } catch (err) {
-      const message = err instanceof Error ? err.message : "Unexpected error.";
-      setError(message);
+      const message = err instanceof Error ? err.message : FRIENDLY_DELAY_MESSAGE;
+      setError(message || FRIENDLY_DELAY_MESSAGE);
       setRadar(null);
     } finally {
       setLoading(false);
@@ -113,7 +118,9 @@ export default function MyNeedlePage() {
             ) : null}
 
             {error ? (
-              <p className="mt-8 text-[14px] text-[#888888] [font-family:Arial,Helvetica,sans-serif]">{error}</p>
+              <p className="mt-8 text-[13px] text-[#888888] [font-family:Georgia,Times,'Times_New_Roman',serif]">
+                {error}
+              </p>
             ) : null}
 
             {radar && !loading ? (
@@ -125,7 +132,7 @@ export default function MyNeedlePage() {
                 </div>
 
                 {radar.albums.length === 0 ? (
-                  <p className="mt-2 text-[14px] text-[#888888] [font-family:Arial,Helvetica,sans-serif]">
+                  <p className="mt-2 text-[13px] text-[#888888] [font-family:Georgia,Times,'Times_New_Roman',serif]">
                     Nothing matched your taste this week. Try broader genres.
                   </p>
                 ) : (
