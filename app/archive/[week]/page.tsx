@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getRadarByWeek } from "@/lib/radars";
+import type { RadarAlbum as Album } from "@/lib/radar-types";
 
 type RadarWeekPageProps = {
   params: { week: string };
@@ -26,7 +27,7 @@ export default async function RadarWeekPage({ params }: RadarWeekPageProps) {
       </header>
 
       <section className="mt-10 space-y-10">
-        {radar.albums.map((album) => (
+        {radar.albums.map((album: Album) => (
           <article key={`${album.artist}-${album.title}`} className="border-b border-[#e0e0e0] pb-8">
             <h2 className="text-2xl font-bold text-[#1a1a1a] [font-family:Georgia,Times,'Times_New_Roman',serif]">
               {album.artist} - {album.title} ({album.year})
