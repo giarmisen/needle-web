@@ -1,5 +1,6 @@
 import { readdir, readFile } from "node:fs/promises";
 import path from "node:path";
+import type { Radar } from "@/lib/radar-types";
 
 export type { Radar, RadarAlbum } from "@/lib/radar-types";
 
