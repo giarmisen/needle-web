@@ -93,7 +93,6 @@ export async function POST(request: Request) {
           tools: [{ google_search: {} }],
           generationConfig: {
             maxOutputTokens: 8192,
-            responseMimeType: "application/json",
           },
         }),
       }
