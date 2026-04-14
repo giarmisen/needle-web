@@ -54,6 +54,53 @@ function parseJsonText(raw: string) {
   return JSON.parse(cleaned);
 }
 
+async function getSpotifyToken(): Promise<string> {
+  const credentials = Buffer.from(
+    `${process.env.SPOTIFY_CLIENT_ID}:${process.env.SPOTIFY_CLIENT_SECRET}`
+  ).toString('base64');
+
+  const res = await fetch('https://accounts.spotify.com/api/token', {
+    method: 'POST',
+    headers: {
+      Authorization: `Basic ${credentials}`,
+      'Content-Type': 'application/x-www-form-urlencoded',
+    },
+    body: 'grant_type=client_credentials',
+  });
+
+  const data = await res.json();
+  return data.access_token;
+}
+
+async function getSpotifyData(artist: string, title: string, token: string) {
+  const query = encodeURIComponent(`album:${title} artist:${artist}`);
+  const res = await fetch(
+    `https://api.spotify.com/v1/search?q=${query}&type=album&limit=1`,
+    { headers: { Authorization: `Bearer ${token}` } }
+  );
+  const data = await res.json();
+  const items = data?.albums?.items;
+  if (!items || items.length === 0) return null;
+
+  const album = items[0];
+  const foundArtist = album.artists[0].name.toLowerCase();
+  const foundTitle = album.name.toLowerCase();
+
+  if (
+    !foundArtist.includes(artist.toLowerCase()) &&
+    !artist.toLowerCase().includes(foundArtist)
+  ) return null;
+  if (
+    !foundTitle.includes(title.toLowerCase()) &&
+    !title.toLowerCase().includes(foundTitle)
+  ) return null;
+
+  return {
+    spotifyUrl: album.external_urls.spotify,
+    coverUrl: album.images?.[1]?.url || null,
+  };
+}
+
 export async function POST(request: Request) {
   try {
     const body = (await request.json()) as MyNeedleRequest;
@@ -121,7 +168,17 @@ export async function POST(request: Request) {
     }
 
     const parsed = parseJsonText(text);
-    return NextResponse.json(parsed);
+
+const token = await getSpotifyToken();
+for (const album of parsed.albums) {
+  const spotify = await getSpotifyData(album.artist, album.title, token);
+  if (spotify) {
+    album.spotify_url = spotify.spotifyUrl;
+    album.cover_url = spotify.coverUrl;
+  }
+}
+
+return NextResponse.json(parsed);
   } catch (error) {
     const message =
       error instanceof Error ? error.message : "Unexpected server error";
