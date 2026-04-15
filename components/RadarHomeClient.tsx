@@ -87,7 +87,7 @@ export default function RadarHomeClient({ initialWeek, initialRadar, archive }: 
             />
 
             <div className="pt-6">
-              <p className="mb-6 text-[10px] uppercase text-[#888888] [font-family:Arial,Helvetica,sans-serif]">
+              <p className="mb-6 text-[13px] text-[#888888] [font-family:Georgia,Times,'Times_New_Roman',serif]">
                 {activeMeta
                   ? `${formatSlashDate(activeMeta.week_to)} – ${formatSlashDate(activeMeta.week_from)}`
                   : `${formatSlashDate(radar.week_to)} – ${formatSlashDate(radar.week_from)}`}
