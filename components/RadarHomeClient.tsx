@@ -4,6 +4,7 @@ import { useMemo, useState } from "react";
 import Link from "next/link";
 import type { Radar } from "@/lib/radar-types";
 import HeaderWithSubscribe from "@/components/HeaderWithSubscribe";
+import EditorialFooter from "@/components/EditorialFooter";
 
 export type ArchiveItem = {
   week: string;
@@ -55,15 +56,38 @@ export default function RadarHomeClient({ initialWeek, initialRadar, archive }: 
   return (
     <div className="min-h-screen bg-white">
       <div className="mx-auto w-full max-w-5xl">
+        <div className="border-b-4 border-[#0a0a0a] py-3">
+          <div className="flex items-center justify-between">
+            <Link
+              href="/"
+              className="[font-family:Arial,Helvetica,sans-serif] text-[10px] uppercase tracking-[0.15em] text-[#0a0a0a] no-underline"
+            >
+              The Needle Weekly
+            </Link>
+            <div className="flex items-center gap-4">
+              <Link
+                href="/archive"
+                className="[font-family:Arial,Helvetica,sans-serif] text-[10px] uppercase tracking-[0.12em] text-[#888888] no-underline"
+              >
+                Archive
+              </Link>
+              <Link
+                href="/my-needle"
+                className="[font-family:Arial,Helvetica,sans-serif] text-[10px] uppercase tracking-[0.12em] text-[#888888] no-underline"
+              >
+                My Needle
+              </Link>
+            </div>
+          </div>
+        </div>
         <div className="grid grid-cols-1 md:grid-cols-[minmax(0,1fr)_220px]">
           <main className="px-6 py-8 md:px-6">
             <HeaderWithSubscribe
-              title="The Needle Weekly"
               description="A personal music radar built around shoegaze, dream pop, avant-garde R&B, art pop, and whatever else crosses the threshold. Every Sunday, the albums that made it — filtered by critical consensus across 30+ sources."
             />
 
-            <div className="mt-8">
-              <p className="mb-6 text-[13px] text-[#888888] [font-family:Arial,Helvetica,sans-serif]">
+            <div className="pt-6">
+              <p className="mb-6 text-[10px] uppercase text-[#888888] [font-family:Arial,Helvetica,sans-serif]">
                 {activeMeta
                   ? `${formatSlashDate(activeMeta.week_to)} – ${formatSlashDate(activeMeta.week_from)}`
                   : `${formatSlashDate(radar.week_to)} – ${formatSlashDate(radar.week_from)}`}
@@ -76,18 +100,18 @@ export default function RadarHomeClient({ initialWeek, initialRadar, archive }: 
                   key={`${album.artist}-${album.title}`}
                   className="flex gap-4 border-b-[0.5px] border-[#e0e0e0] py-6"
                 >
-                  <div className="h-[80px] w-[80px] shrink-0 bg-[#f0f0f0] md:h-[175px] md:w-[175px]">
+                  <div className="h-[100px] w-[100px] shrink-0 bg-[#f0f0f0]">
                     {album.cover_url ? (
                       <img
                         src={album.cover_url}
                         alt={`${album.artist} - ${album.title} cover`}
-                        className="h-[80px] w-[80px] object-cover md:h-[175px] md:w-[175px]"
+                        className="h-[100px] w-[100px] object-cover"
                       />
                     ) : null}
                   </div>
 
                   <div className="min-w-0 flex-1">
-                    <h2 className="text-[22px] font-bold text-[#1a1a1a] [font-family:Georgia,Times,'Times_New_Roman',serif]">
+                    <h2 className="text-[22px] font-bold tracking-[-0.3px] text-[#1a1a1a] [font-family:Georgia,Times,'Times_New_Roman',serif]">
                       {album.artist} — &quot;{album.title}&quot;{" "}
                       <span className="font-normal text-[#888888]">({album.year})</span>
                     </h2>
@@ -121,29 +145,13 @@ export default function RadarHomeClient({ initialWeek, initialRadar, archive }: 
               ))}
             </section>
 
-            <footer className="flex items-center justify-between py-6">
-              <p className="text-[10px] uppercase tracking-[0.12em] text-[#aaaaaa] [font-family:Arial,Helvetica,sans-serif]">
-                The Needle Weekly
-              </p>
-              <p className="text-[11px] text-[#888888] [font-family:Arial,Helvetica,sans-serif]">
-                Curated by{" "}
-                <a
-                  href="https://www.linkedin.com/in/giarmisen/"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="text-[11px] text-[#888888] [font-family:Arial,Helvetica,sans-serif] underline"
-                >
-                  Georgina Armisen
-                </a>
-                , product designer.
-              </p>
-            </footer>
+            <EditorialFooter />
           </main>
 
           <aside className="bg-[#fafafa]">
             <div className="h-full border-t-[0.5px] border-[#e0e0e0] px-6 py-8 md:border-l-[0.5px] md:border-t-0 md:px-4">
               <div>
-                <div className="mb-4 text-[10px] font-bold uppercase tracking-[0.12em] text-[#888888] [font-family:Arial,Helvetica,sans-serif]">
+                <div className="mb-4 border-b-2 border-[#0a0a0a] pb-2 text-[9px] font-bold uppercase tracking-[0.15em] text-[#888888] [font-family:Arial,Helvetica,sans-serif]">
                   Archive
                 </div>
                 <nav>
@@ -169,7 +177,7 @@ export default function RadarHomeClient({ initialWeek, initialRadar, archive }: 
                 </nav>
               </div>
 
-              <div className="mt-6 border-t-[0.5px] border-[#e0e0e0] pt-6">
+              <div className="mt-8 border-t-2 border-[#0a0a0a] pt-6">
                 <div className="text-[10px] font-bold uppercase tracking-[0.12em] text-[#888888] [font-family:Arial,Helvetica,sans-serif]">
                   My Needle
                 </div>

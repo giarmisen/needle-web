@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { getAllRadars } from "@/lib/radars";
+import EditorialFooter from "@/components/EditorialFooter";
 
 function formatIsoDate(value: string) {
   const d = new Date(`${value}T00:00:00`);
@@ -50,6 +51,7 @@ export default async function ArchivePage() {
           </ul>
         )}
       </section>
+      <EditorialFooter />
     </main>
   );
 }

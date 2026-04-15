@@ -1,15 +1,21 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { Resend } from 'resend';
 
-const resend = new Resend(process.env.RESEND_API_KEY);
-const AUDIENCE_ID = process.env.RESEND_AUDIENCE_ID!;
+const AUDIENCE_ID = process.env.RESEND_AUDIENCE_ID;
 
 export async function GET(req: NextRequest) {
+  const apiKey = process.env.RESEND_API_KEY;
   const email = req.nextUrl.searchParams.get('email');
 
   if (!email) {
     return NextResponse.redirect(new URL('/unsubscribe?status=error', req.url));
   }
+
+  if (!apiKey || !AUDIENCE_ID) {
+    return NextResponse.redirect(new URL('/unsubscribe?status=error', req.url));
+  }
+
+  const resend = new Resend(apiKey);
 
   try {
     const contacts = await resend.contacts.list({ audienceId: AUDIENCE_ID });

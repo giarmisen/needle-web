@@ -2,6 +2,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getAllRadars, getRadarByWeek } from "@/lib/radars";
 import type { RadarAlbum as Album } from "@/lib/radar-types";
+import EditorialFooter from "@/components/EditorialFooter";
 
 type RadarWeekPageProps = {
   params: { week: string };
@@ -119,23 +120,7 @@ export default async function RadarWeekPage({ params }: RadarWeekPageProps) {
               ))}
             </section>
 
-            <footer className="flex items-center justify-between py-6">
-              <p className="text-[10px] uppercase tracking-[0.12em] text-[#aaaaaa] [font-family:Arial,Helvetica,sans-serif]">
-                The Needle Weekly
-              </p>
-              <p className="text-[11px] text-[#888888] [font-family:Arial,Helvetica,sans-serif]">
-                Curated by{" "}
-                <a
-                  href="https://www.linkedin.com/in/giarmisen/"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="text-[11px] text-[#888888] [font-family:Arial,Helvetica,sans-serif] underline"
-                >
-                  Georgina Armisen
-                </a>
-                , product designer.
-              </p>
-            </footer>
+            <EditorialFooter />
           </main>
 
           <aside className="bg-[#fafafa]">

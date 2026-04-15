@@ -3,6 +3,7 @@
 import { FormEvent, useState } from "react";
 import Link from "next/link";
 import type { Radar, RadarAlbum as Album } from "@/lib/radar-types";
+import EditorialFooter from "@/components/EditorialFooter";
 
 const FRIENDLY_DELAY_MESSAGE =
   "The radar is taking longer than usual — Gemini is under high demand right now. Wait a minute and try again.";
@@ -194,25 +195,9 @@ export default function MyNeedlePage() {
                   </section>
                 )}
 
-                <footer className="flex items-center justify-between py-6">
-                  <p className="text-[10px] uppercase tracking-[0.12em] text-[#aaaaaa] [font-family:Arial,Helvetica,sans-serif]">
-                    The Needle Weekly
-                  </p>
-                  <p className="text-[11px] text-[#888888] [font-family:Arial,Helvetica,sans-serif]">
-                    Curated by{" "}
-                    <a
-                      href="https://www.linkedin.com/in/giarmisen/"
-                      target="_blank"
-                      rel="noreferrer"
-                      className="text-[11px] text-[#888888] [font-family:Arial,Helvetica,sans-serif] underline"
-                    >
-                      Georgina Armisen
-                    </a>
-                    , product designer.
-                  </p>
-                </footer>
               </>
             ) : null}
+        <EditorialFooter />
       </main>
     </div>
   );

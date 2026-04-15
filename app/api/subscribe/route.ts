@@ -1,21 +1,24 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { Resend } from 'resend';
 
-const resend = new Resend(process.env.RESEND_API_KEY);
-const AUDIENCE_ID = process.env.RESEND_AUDIENCE_ID!;
+const AUDIENCE_ID = process.env.RESEND_AUDIENCE_ID;
 const UNSUBSCRIBE_BASE = 'https://script.google.com/macros/s/AKfycbw0HGM6DlkPXIerAP0okTqWPo71GY2EkzvcUMCtzlGyGQZS5yXE_JnDtNzmRvenRA-1/exec';
 
 export async function POST(req: NextRequest) {
+  const apiKey = process.env.RESEND_API_KEY;
   const { email } = await req.json();
 
   if (!email || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
     return NextResponse.json({ error: 'Invalid email' }, { status: 400 });
   }
 
+  if (!apiKey || !AUDIENCE_ID) {
+    return NextResponse.json({ error: 'Subscription service is not configured.' }, { status: 500 });
+  }
+
+  const resend = new Resend(apiKey);
+
   try {
-    console.log('AUDIENCE_ID:', AUDIENCE_ID);
-    console.log('API KEY exists:', !!process.env.RESEND_API_KEY);
-    
     await resend.contacts.create({
       email,
       unsubscribed: false,
