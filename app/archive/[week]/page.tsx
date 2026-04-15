@@ -2,7 +2,6 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getAllRadars, getRadarByWeek } from "@/lib/radars";
 import type { RadarAlbum as Album } from "@/lib/radar-types";
-import HeaderWithSubscribe from "@/components/HeaderWithSubscribe";
 
 type RadarWeekPageProps = {
   params: { week: string };
@@ -57,18 +56,22 @@ export default async function RadarWeekPage({ params }: RadarWeekPageProps) {
       <div className="mx-auto w-full max-w-5xl">
         <div className="grid grid-cols-1 md:grid-cols-[minmax(0,1fr)_220px]">
           <main className="px-6 py-8 md:px-6">
-            <HeaderWithSubscribe
-              title="The Needle Weekly"
-              description="A personal music radar built around shoegaze, dream pop, avant-garde R&B, art pop, and whatever else crosses the threshold. Every Sunday, the albums that made it — filtered by critical consensus across 30+ sources."
-            />
-
-            <div className="mt-8">
-              <p className="mb-6 text-[13px] text-[#888888] [font-family:Arial,Helvetica,sans-serif]">
-                {formatSlashDate(radar.week_to)} – {formatSlashDate(radar.week_from)}
-              </p>
+            <div className="pb-2">
+              <Link
+                href="/"
+                className="[font-family:Arial,Helvetica,sans-serif] text-[11px] uppercase text-[#888888] no-underline"
+              >
+                THE NEEDLE WEEKLY
+              </Link>
             </div>
 
-            <section>
+            <div className="border-b border-[#e0e0e0] pb-4">
+              <h1 className="text-[36px] font-black text-[#1a1a1a] [font-family:Georgia,Times,'Times_New_Roman',serif]">
+                {formatSlashDate(radar.week_to)} – {formatSlashDate(radar.week_from)}
+              </h1>
+            </div>
+
+            <section className="mt-6">
               {radar.albums.map((album: Album) => (
                 <article key={`${album.artist}-${album.title}`} className="flex gap-4 border-b-[0.5px] border-[#e0e0e0] py-6">
                   <div className="h-[80px] w-[80px] shrink-0 bg-[#f0f0f0] md:h-[175px] md:w-[175px]">
@@ -120,14 +123,18 @@ export default async function RadarWeekPage({ params }: RadarWeekPageProps) {
               <p className="text-[10px] uppercase tracking-[0.12em] text-[#aaaaaa] [font-family:Arial,Helvetica,sans-serif]">
                 The Needle Weekly
               </p>
-              <a
-                href="https://www.linkedin.com/in/giarmisen/"
-                target="_blank"
-                rel="noreferrer"
-                className="text-[11px] text-[#888888] [font-family:Arial,Helvetica,sans-serif] border-b border-[#888888]"
-              >
-                Georgina Armisen
-              </a>
+              <p className="text-[11px] text-[#888888] [font-family:Arial,Helvetica,sans-serif]">
+                Curated by{" "}
+                <a
+                  href="https://www.linkedin.com/in/giarmisen/"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="text-[11px] text-[#888888] [font-family:Arial,Helvetica,sans-serif] underline"
+                >
+                  Georgina Armisen
+                </a>
+                , product designer.
+              </p>
             </footer>
           </main>
 
@@ -141,44 +148,25 @@ export default async function RadarWeekPage({ params }: RadarWeekPageProps) {
                   {archive.map((item) => {
                     const isActive = item.week === params.week;
                     return (
-                      <Link
-                        key={item.week}
-                        href={`/archive/${item.week}`}
-                        className="block w-full border-b-[0.5px] border-[#e8e8e8] py-2 text-left"
-                      >
-                        <div
-                          className={[
-                            "text-[14px] text-[#1a1a1a] [font-family:Arial,Helvetica,sans-serif]",
-                            isActive ? "font-bold" : "font-normal",
-                          ].join(" ")}
-                        >
-                          {formatIsoDate(item.week)}
-                        </div>
-                        <div className="mt-1 text-[12px] text-[#888888] [font-family:Arial,Helvetica,sans-serif]">
-                          {item.album_count} albums
-                        </div>
-                      </Link>
+                      <div key={item.week} className="block w-full border-b-[0.5px] border-[#e8e8e8] py-2 text-left">
+                        {isActive ? (
+                          <div className="text-[14px] font-bold text-[#1a1a1a] [font-family:Arial,Helvetica,sans-serif]">
+                            {formatIsoDate(item.week)}
+                          </div>
+                        ) : (
+                          <Link
+                            href={`/archive/${item.week}`}
+                            className="text-[14px] font-normal text-[#1a1a1a] [font-family:Arial,Helvetica,sans-serif] no-underline"
+                          >
+                            {formatIsoDate(item.week)}
+                          </Link>
+                        )}
+                      </div>
                     );
                   })}
                 </nav>
               </div>
 
-              <div className="mt-6 border-t-[0.5px] border-[#e0e0e0] pt-6">
-                <div className="text-[10px] font-bold uppercase tracking-[0.12em] text-[#888888] [font-family:Arial,Helvetica,sans-serif]">
-                  My Needle
-                </div>
-                <p className="mt-3 text-[13px] leading-[1.6] text-[#333333] [font-family:Georgia,Times,'Times_New_Roman',serif]">
-                  A small kit for shaping your own weekly radar from the music you already trust.
-                </p>
-                <div className="mt-4">
-                  <Link
-                    href="/my-needle"
-                    className="text-[11px] text-[#1a1a1a] [font-family:Arial,Helvetica,sans-serif] border-b border-[#1a1a1a]"
-                  >
-                    Set up yours →
-                  </Link>
-                </div>
-              </div>
             </div>
           </aside>
         </div>

@@ -1,6 +1,7 @@
 "use client";
 
 import { FormEvent, useState } from "react";
+import Link from "next/link";
 
 type HeaderWithSubscribeProps = {
   title: string;
@@ -42,6 +43,14 @@ export default function HeaderWithSubscribe({ title, description }: HeaderWithSu
 
   return (
     <header className="border-b-2 border-[#1a1a1a] pb-5">
+      <div className="pb-2">
+        <Link
+          href="/"
+          className="[font-family:Arial,Helvetica,sans-serif] text-[11px] uppercase text-[#888888] no-underline"
+        >
+          THE NEEDLE WEEKLY
+        </Link>
+      </div>
       <h1 className="text-[32px] font-black tracking-[-2px] text-[#1a1a1a] [font-family:Georgia,Times,'Times_New_Roman',serif] md:text-[48px]">
         {title}
       </h1>

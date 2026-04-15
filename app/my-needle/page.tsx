@@ -60,18 +60,24 @@ export default function MyNeedlePage() {
 
   return (
     <div className="min-h-screen bg-white">
-      <div className="mx-auto w-full max-w-5xl">
-        <div className="grid grid-cols-1 md:grid-cols-[minmax(0,1fr)_220px]">
-          <main className="px-6 py-8 md:px-6">
-            <header className="border-b-2 border-[#1a1a1a] pb-5">
-              <h1 className="text-[32px] font-black tracking-[-2px] text-[#1a1a1a] [font-family:Georgia,Times,'Times_New_Roman',serif] md:text-[48px]">
-                My Needle
-              </h1>
-              <p className="mt-3 text-[16px] leading-[1.6] text-[#444444] [font-family:Georgia,Times,'Times_New_Roman',serif]">
-                Tell us what you listen to and we&apos;ll generate a weekly radar just for you — same sources, different
-                taste.
-              </p>
-            </header>
+      <main className="mx-auto w-full max-w-5xl px-6 py-8">
+        <div className="pb-2">
+          <Link
+            href="/"
+            className="[font-family:Arial,Helvetica,sans-serif] text-[11px] uppercase text-[#888888] no-underline"
+          >
+            THE NEEDLE WEEKLY
+          </Link>
+        </div>
+        <header className="w-full border-b-2 border-[#1a1a1a] py-6">
+          <h1 className="[font-family:Georgia,Times,'Times_New_Roman',serif] text-[36px] font-black text-[#1a1a1a]">
+            My Needle
+          </h1>
+        </header>
+            <p className="mt-3 text-[16px] leading-[1.6] text-[#444444] [font-family:Georgia,Times,'Times_New_Roman',serif]">
+              Tell us what you listen to and we&apos;ll generate a weekly radar just for you — same sources, different
+              taste.
+            </p>
 
             <form onSubmit={onSubmit} className="mt-8 border-b-[0.5px] border-[#e0e0e0] pb-8">
               <div className="space-y-5">
@@ -189,61 +195,25 @@ export default function MyNeedlePage() {
                 )}
 
                 <footer className="flex items-center justify-between py-6">
-                  <div>
-                    <p className="text-[10px] uppercase tracking-[0.12em] text-[#888888] [font-family:Arial,Helvetica,sans-serif]">
-                      {radar.footer}
-                    </p>
-                    <p className="mt-2 text-[10px] uppercase tracking-[0.12em] text-[#aaaaaa] [font-family:Arial,Helvetica,sans-serif]">
-                      The Needle Weekly
-                    </p>
-                  </div>
-                  <a
-                    href="https://www.linkedin.com/in/giarmisen/"
-                    target="_blank"
-                    rel="noreferrer"
-                    className="text-[11px] text-[#888888] [font-family:Arial,Helvetica,sans-serif] border-b border-[#888888]"
-                  >
-                    Georgina Armisen
-                  </a>
+                  <p className="text-[10px] uppercase tracking-[0.12em] text-[#aaaaaa] [font-family:Arial,Helvetica,sans-serif]">
+                    The Needle Weekly
+                  </p>
+                  <p className="text-[11px] text-[#888888] [font-family:Arial,Helvetica,sans-serif]">
+                    Curated by{" "}
+                    <a
+                      href="https://www.linkedin.com/in/giarmisen/"
+                      target="_blank"
+                      rel="noreferrer"
+                      className="text-[11px] text-[#888888] [font-family:Arial,Helvetica,sans-serif] underline"
+                    >
+                      Georgina Armisen
+                    </a>
+                    , product designer.
+                  </p>
                 </footer>
               </>
             ) : null}
-          </main>
-
-          <aside className="bg-[#fafafa]">
-            <div className="h-full border-t-[0.5px] border-[#e0e0e0] px-6 py-8 md:border-l-[0.5px] md:border-t-0 md:px-4">
-              <div>
-                <div className="mb-4 text-[10px] font-bold uppercase tracking-[0.12em] text-[#888888] [font-family:Arial,Helvetica,sans-serif]">
-                  Archive
-                </div>
-                <Link
-                  href="/archive"
-                  className="block border-b-[0.5px] border-[#e8e8e8] py-2 text-[14px] font-bold text-[#1a1a1a] [font-family:Arial,Helvetica,sans-serif]"
-                >
-                  Browse all issues
-                </Link>
-              </div>
-
-              <div className="mt-6 border-t-[0.5px] border-[#e0e0e0] pt-6">
-                <div className="text-[10px] font-bold uppercase tracking-[0.12em] text-[#888888] [font-family:Arial,Helvetica,sans-serif]">
-                  My Needle
-                </div>
-                <p className="mt-3 text-[13px] leading-[1.6] text-[#333333] [font-family:Georgia,Times,'Times_New_Roman',serif]">
-                  Start from your favorite genres and artists, and get a radar tuned to your listening profile.
-                </p>
-                <div className="mt-4">
-                  <Link
-                    href="/"
-                    className="text-[11px] text-[#1a1a1a] [font-family:Arial,Helvetica,sans-serif] border-b border-[#1a1a1a]"
-                  >
-                    Back to weekly radar →
-                  </Link>
-                </div>
-              </div>
-            </div>
-          </aside>
-        </div>
-      </div>
+      </main>
     </div>
   );
 }

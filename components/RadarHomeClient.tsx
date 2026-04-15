@@ -43,28 +43,14 @@ function formatIsoDate(value: string) {
 }
 
 export default function RadarHomeClient({ initialWeek, initialRadar, archive }: Props) {
-  const [activeWeek, setActiveWeek] = useState(initialWeek);
-  const [radar, setRadar] = useState<Radar>(initialRadar);
-  const [isLoading, setIsLoading] = useState(false);
+  const [activeWeek] = useState(initialWeek);
+  const [radar] = useState<Radar>(initialRadar);
+  const isLoading = false;
 
   const activeMeta = useMemo(
     () => archive.find((x) => x.week === activeWeek) ?? archive[0],
     [activeWeek, archive]
   );
-
-  async function onSelectWeek(week: string) {
-    if (week === activeWeek) return;
-    setActiveWeek(week);
-    setIsLoading(true);
-    try {
-      const res = await fetch(`/api/radars/${week}`, { cache: "no-store" });
-      if (!res.ok) throw new Error(`Failed to load week ${week}`);
-      const next = (await res.json()) as Radar;
-      setRadar(next);
-    } finally {
-      setIsLoading(false);
-    }
-  }
 
   return (
     <div className="min-h-screen bg-white">
@@ -136,22 +122,21 @@ export default function RadarHomeClient({ initialWeek, initialRadar, archive }: 
             </section>
 
             <footer className="flex items-center justify-between py-6">
-              <div>
-                <p className="text-[10px] uppercase tracking-[0.12em] text-[#888888] [font-family:Arial,Helvetica,sans-serif]">
-                  {radar.albums.length} albums recommended this week
-                </p>
-                <p className="mt-2 text-[10px] uppercase tracking-[0.12em] text-[#aaaaaa] [font-family:Arial,Helvetica,sans-serif]">
-                  The Needle Weekly
-                </p>
-              </div>
-              <a
-                href="https://www.linkedin.com/in/giarmisen/"
-                target="_blank"
-                rel="noreferrer"
-                className="text-[11px] text-[#888888] [font-family:Arial,Helvetica,sans-serif] border-b border-[#888888]"
-              >
-                Georgina Armisen
-              </a>
+              <p className="text-[10px] uppercase tracking-[0.12em] text-[#aaaaaa] [font-family:Arial,Helvetica,sans-serif]">
+                The Needle Weekly
+              </p>
+              <p className="text-[11px] text-[#888888] [font-family:Arial,Helvetica,sans-serif]">
+                Curated by{" "}
+                <a
+                  href="https://www.linkedin.com/in/giarmisen/"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="text-[11px] text-[#888888] [font-family:Arial,Helvetica,sans-serif] underline"
+                >
+                  Georgina Armisen
+                </a>
+                , product designer.
+              </p>
             </footer>
           </main>
 
@@ -165,24 +150,20 @@ export default function RadarHomeClient({ initialWeek, initialRadar, archive }: 
                   {archive.map((item) => {
                     const isActive = item.week === activeWeek;
                     return (
-                      <button
-                        key={item.week}
-                        type="button"
-                        onClick={() => onSelectWeek(item.week)}
-                        className="w-full border-b-[0.5px] border-[#e8e8e8] py-2 text-left"
-                      >
-                        <div
-                          className={[
-                            "text-[14px] text-[#1a1a1a] [font-family:Arial,Helvetica,sans-serif]",
-                            isActive ? "font-bold" : "font-normal",
-                          ].join(" ")}
-                        >
-                          {formatIsoDate(item.week)}
-                        </div>
-                        <div className="mt-1 text-[12px] text-[#888888] [font-family:Arial,Helvetica,sans-serif]">
-                          {item.album_count} albums
-                        </div>
-                      </button>
+                      <div key={item.week} className="w-full border-b-[0.5px] border-[#e8e8e8] py-2 text-left">
+                        {isActive ? (
+                          <div className="text-[14px] font-bold text-[#1a1a1a] [font-family:Arial,Helvetica,sans-serif]">
+                            {formatIsoDate(item.week)}
+                          </div>
+                        ) : (
+                          <Link
+                            href={`/archive/${item.week}`}
+                            className="text-[14px] font-normal text-[#1a1a1a] [font-family:Arial,Helvetica,sans-serif] no-underline"
+                          >
+                            {formatIsoDate(item.week)}
+                          </Link>
+                        )}
+                      </div>
                     );
                   })}
                 </nav>
