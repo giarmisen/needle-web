@@ -1,0 +1,89 @@
+{
+  "week_from": "26/04/2026",
+  "week_to": "03/05/2026",
+  "albums": [
+    {
+      "artist": "Anitta",
+      "title": "EQUILIBRIVM",
+      "year": 2026,
+      "sources": "PopMatters",
+      "description": "Critics praise Anitta for adapting to her own scale and the zeitgeist of Brazilian pop, showcasing her evolution within the genre.",
+      "aligned": false,
+      "review_url": "https://www.popmatters.com/music/reviews"
+    },
+    {
+      "artist": "Hiss Golden Messenger",
+      "title": "I'm People",
+      "year": 2026,
+      "sources": "PopMatters",
+      "description": "M.C. Taylor's 11th LP is valued for its painstaking blend of the personal and political, creating an entirely human work comprised of complex, messy, and wonderful elements.",
+      "aligned": false,
+      "review_url": "https://www.popmatters.com/music/reviews"
+    },
+    {
+      "artist": "Seefeel",
+      "title": "Sol.hz",
+      "year": 2026,
+      "sources": "PopMatters · Metacritic (Release)",
+      "description": "This album offers a disorienting clarity, praised for sustaining a shifting field of texture where familiar musical signposts dissolve as quickly as they emerge.",
+      "aligned": true,
+      "review_url": "https://www.popmatters.com/music/reviews",
+      "spotify_url": "https://open.spotify.com/album/4itsHfW3VFZ0nob3mqMCsf",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02dacdb67ca16ea682f5bc527f"
+    },
+    {
+      "artist": "Harriet Tubman & Georgia Anne Muldrow",
+      "title": "Collaborative Works",
+      "year": 2026,
+      "sources": "PopMatters",
+      "description": "Their collaborative music is described as a powerful brew, a lava flow of blues sensibility, and a collage of funk, soul, and jazz, resulting in some of the year's most daring music.",
+      "aligned": false,
+      "review_url": "https://www.popmatters.com/music/reviews"
+    },
+    {
+      "artist": "Tomora",
+      "title": "Come Closer",
+      "year": 2026,
+      "sources": "PopMatters",
+      "description": "Critics highlight this album as a perfect collision of styles, existing in its own world with a clear sense of identity forged from distinctive musical journeys.",
+      "aligned": false,
+      "review_url": "https://www.popmatters.com/music/reviews",
+      "spotify_url": "https://open.spotify.com/album/5C40IE0VAEHNZJcpwUxoNY",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02145a96295a51811e8b96a380"
+    },
+    {
+      "artist": "Tori Amos",
+      "title": "In Times of Dragons",
+      "year": 2026,
+      "sources": "The Line of Best Fit · Metacritic (Release)",
+      "description": "Tori Amos is lauded for weaving the tale of a modern humanist odyssey through her latest work.",
+      "aligned": false,
+      "review_url": "https://www.thelineofbestfit.com/albums",
+      "spotify_url": "https://open.spotify.com/album/6KnWKWlU9xvhuOxEgkl4l2",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02d3876103bd75448785cf6d91"
+    },
+    {
+      "artist": "KNEECAP",
+      "title": "FENIAN",
+      "year": 2026,
+      "sources": "The Line of Best Fit",
+      "description": "KNEECAP's album is noted for its refined sound, suggesting the group has cleaned up their act.",
+      "aligned": false,
+      "review_url": "https://www.thelineofbestfit.com/albums",
+      "spotify_url": "https://open.spotify.com/album/0IAAsMXyI0xm8FkmsOJRh3",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02287db3f4abe7183cd28c8d10"
+    },
+    {
+      "artist": "Lip Critic",
+      "title": "Theft World",
+      "year": 2026,
+      "sources": "The Line of Best Fit",
+      "description": "This release marks a confident return for Lip Critic, showcasing a sound delivered with certainty.",
+      "aligned": false,
+      "review_url": "https://www.thelineofbestfit.com/albums",
+      "spotify_url": "https://open.spotify.com/album/6UQvKJID9tTP81IIFRt9Dk",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e022dd01abb077567509f00a39c"
+    }
+  ],
+  "footer": "8 albums recommended this week · AI powered by Gi :)"
+}
