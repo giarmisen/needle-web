@@ -1,0 +1,95 @@
+{
+  "week_from": "02/06/2026",
+  "week_to": "09/06/2026",
+  "albums": [
+    {
+      "artist": "Death Cab for Cutie",
+      "title": "I Built You a Tower",
+      "year": 2026,
+      "sources": "The Line of Best Fit 8/10 · PopMatters",
+      "description": "This album sees the veteran indie rock band looking towards their future with wistful and personal songwriting, blending their mellower indie folk side with propulsive indie rock energy.",
+      "aligned": false,
+      "review_url": "https://www.thelineofbestfit.com/reviews/albums/death-cab-for-cutie-i-built-you-a-tower-review",
+      "spotify_url": "https://open.spotify.com/album/4D1zUsXw30DbfOqY1gVsfT",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e021356b24d48cbabc44384e753"
+    },
+    {
+      "artist": "Gun Outfit",
+      "title": "Process and Reality",
+      "year": 2026,
+      "sources": "PopMatters",
+      "description": "Gun Outfit's sixth studio album imbues a cosmic existentialism, featuring celestial instrumentation that coils and twists like a serpentine trail, creating a chimerical psych-rock sound.",
+      "aligned": true,
+      "review_url": "https://www.popmatters.com/gun-outfit-process-and-reality-review",
+      "spotify_url": "https://open.spotify.com/album/0PD58ZwOIqrgqMl8icmDYk",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e023d4ea68d1a49c6dfe0ea555c"
+    },
+    {
+      "artist": "Vince Staples",
+      "title": "Cry Baby",
+      "year": 2026,
+      "sources": "The Line of Best Fit 7/10",
+      "description": "Staples' seventh studio album is his liveliest to date, built almost entirely of live instrumentals ranging from bare-boned rock to strutting funk, bringing a new, in-the-room momentum to his world-weary delivery.",
+      "aligned": false,
+      "review_url": "https://www.thelineofbestfit.com/reviews/albums/vince-staples-cry-baby-review",
+      "spotify_url": "https://open.spotify.com/album/5Asm8hPfn7pAlxpoir4ljs",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02dd168c97fdd98891f1f5ca26"
+    },
+    {
+      "artist": "Skrillex",
+      "title": "SOMA",
+      "year": 2026,
+      "sources": "Resident Advisor",
+      "description": "This surprise 13-track LP is stuffed with collaborations, showcasing Skrillex's continued evolution in electronic music with a diverse range of artists.",
+      "aligned": false,
+      "review_url": "https://ra.co/news/84706",
+      "spotify_url": "https://open.spotify.com/album/4vSNQ69cqRe2WgsdPXH3mv",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02cc9ce7613345cafce244a152"
+    },
+    {
+      "artist": "Spekki Webu",
+      "title": "Bootstrap Paradox",
+      "year": 2026,
+      "sources": "Resident Advisor",
+      "description": "The Dutch artist bends techno into thrilling new shapes, conjuring a trippy, alien album that speaks directly to rave culture's foundational spirit.",
+      "aligned": true,
+      "review_url": "https://ra.co/reviews/39733",
+      "spotify_url": "https://open.spotify.com/album/1xFLhs4Yi3Ip3OVlQbkFr1",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e0244e24ed4302ef8610ac32d4e"
+    },
+    {
+      "artist": "Jalen Ngonda",
+      "title": "Doctrine of Love",
+      "year": 2026,
+      "sources": "The Line of Best Fit 7/10",
+      "description": "Ngonda's sophomore record delivers a smooth, easy-to-digest, and impeccably crafted blend of soul and Motown, feeling both current and a respectful ode to his influences.",
+      "aligned": false,
+      "review_url": "https://www.thelineofbestfit.com/reviews/albums/jalen-ngonda-doctrine-of-love-review",
+      "spotify_url": "https://open.spotify.com/album/1BrSn9sWO3Gi5trDQdc44a",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e026cc735f0ee718f70c785b79f"
+    },
+    {
+      "artist": "Modest Mouse",
+      "title": "An Eraser and a Maze",
+      "year": 2026,
+      "sources": "The Line of Best Fit 6/10 · PopMatters",
+      "description": "Modest Mouse continues to command their forceful curiosity in the studio, delivering an album that echoes familiar obsessions with a blend of awkward slip-ups and poignant moments.",
+      "aligned": false,
+      "review_url": "https://www.thelineofbestfit.com/reviews/albums/modest-mouse-an-eraser-and-a-maze-review",
+      "spotify_url": "https://open.spotify.com/album/0lJPeenR7JbVGYIj1g4d3g",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e020f59e70cb733ff40c9a4e638"
+    },
+    {
+      "artist": "Johnny Blue Skies",
+      "title": "Mutiny After Midnight",
+      "year": 2026,
+      "sources": "Stereogum",
+      "description": "Released under Sturgill Simpson's alias, this album is hailed as one of the year's best, offering a country-rock sound with funky disco-country tracks full of sick licks and unchained sexuality.",
+      "aligned": false,
+      "review_url": "https://www.stereogum.com/2268750/sturgill-simpson-puts-johnny-blue-skies-mutiny-after-midnight-on-streaming-with-a-bonus-cover/news/",
+      "spotify_url": "https://open.spotify.com/album/3YdXVCzqT98v7pMbxVvOL0",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e0293fc0d07a15d2a4e8c5c9647"
+    }
+  ],
+  "footer": "8 albums recommended this week · AI powered by Gi :)"
+}
