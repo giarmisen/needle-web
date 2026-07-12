@@ -1,0 +1,93 @@
+{
+  "week_from": "05/07/2026",
+  "week_to": "12/07/2026",
+  "albums": [
+    {
+      "artist": "Kelela",
+      "title": "new avatar",
+      "year": 2026,
+      "sources": "Metacritic 86",
+      "description": "Kelela's latest full-length is praised for its masterful reconfiguration of shoegaze, IDM, and R&B, crafting a futuristic Black, femme sound.",
+      "aligned": true,
+      "review_url": "https://www.metacritic.com/music/new-avatar/kelela/",
+      "spotify_url": "https://open.spotify.com/album/0t1I0Ic8IzTND3sesj9tDE",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e0215c00fa655da7d2b186a470c"
+    },
+    {
+      "artist": "Magi Merlin",
+      "title": "POWER HOUSE",
+      "year": 2026,
+      "sources": "Stereogum",
+      "description": "This album offers funky, chrome-plated jams, weaving soulful vocals, steampunk R&B, and amorphous trip-hop with raw desire and futuristic textures.",
+      "aligned": true,
+      "review_url": "https://www.stereogum.com/2347960/magi-merlin-power-house-review/new-music/",
+      "spotify_url": "https://open.spotify.com/album/5kUUGiBRGfcA8tN0b79Z7h",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e0290b55ca643f87df80b3060f7"
+    },
+    {
+      "artist": "Umbra Sum",
+      "title": "Obras de misericordia",
+      "year": 2026,
+      "sources": "Rockdelux",
+      "description": "Critics appreciate this album for its profound exploration of themes, delivered with a distinctive musical approach that resonates deeply.",
+      "aligned": false,
+      "review_url": "https://www.rockdelux.com/discos/umbra-sum-obras-de-misericordia",
+      "spotify_url": "https://open.spotify.com/album/1gekP0tFo6q8qhEJRYilKC",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02451559490c21df91ab5de554"
+    },
+    {
+      "artist": "Vanessa Rossetto",
+      "title": "The Professional",
+      "year": 2026,
+      "sources": "Rockdelux",
+      "description": "This release is noted for its professional craftsmanship and unique sonic textures, offering a compelling and immersive listening experience.",
+      "aligned": false,
+      "review_url": "https://www.rockdelux.com/discos/vanessa-rossetto-the-professional"
+    },
+    {
+      "artist": "Bedouine",
+      "title": "Neon Summer Skin",
+      "year": 2026,
+      "sources": "Rockdelux",
+      "description": "The album is lauded for its warm, summery folk sound, characterized by intricate melodies and a captivating vocal performance.",
+      "aligned": true,
+      "review_url": "https://www.rockdelux.com/discos/bedouine-neon-summer-skin",
+      "spotify_url": "https://open.spotify.com/album/69qtiKSxXjstvXGEUAh8nS",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e022442886a4098e95a028cc206"
+    },
+    {
+      "artist": "Ibeyi",
+      "title": "Offering",
+      "year": 2026,
+      "sources": "KEXP",
+      "description": "Ibeyi's fourth album is celebrated for its soulful, free-flowing, and colorful R&B songs, blending worldly influences into a unique sound.",
+      "aligned": true,
+      "review_url": "https://www.kexp.org/read/2026/7/6/new-music-reviews-76/",
+      "spotify_url": "https://open.spotify.com/album/2KrpEIIVUU7AMtTsCOzkAj",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e022789507c4178e0022a5811ee"
+    },
+    {
+      "artist": "The Rolling Stones",
+      "title": "Foreign Tongues",
+      "year": 2026,
+      "sources": "Uncut",
+      "description": "Mick, Keith, and Ronnie channel instinct, unease, and enduring chemistry into a late-period record with real purpose, featuring blues stompers and dystopian dramas.",
+      "aligned": false,
+      "review_url": "https://www.uncut.co.uk/reviews/album-reviews/the-rolling-stones-foreign-tongues-reviewed-152000/",
+      "spotify_url": "https://open.spotify.com/album/6jfU2DEetUUo8nmxrzwkhc",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e0213b9f6190eb9a01538240c62"
+    },
+    {
+      "artist": "Jack White",
+      "title": "Frozen Charlotte",
+      "year": 2026,
+      "sources": "Uncut",
+      "description": "On his seventh solo album, Jack White channels the chemistry of a battle-hardened touring band, delivering biblical visions, swaggering defiance, and hard rock.",
+      "aligned": false,
+      "review_url": "https://www.uncut.co.uk/reviews/album-reviews/jack-white-frozen-charlotte-reviewed-152001/",
+      "spotify_url": "https://open.spotify.com/album/0VV4lddlDaShTgEzohQ7Jj",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02eb255ea518424b30f78b3bda"
+    }
+  ],
+  "footer": "8 albums recommended this week · AI powered by Gi :)"
+}
