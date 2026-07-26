@@ -1,0 +1,71 @@
+{
+  "week_from": "19/07/2026",
+  "week_to": "26/07/2026",
+  "albums": [
+    {
+      "artist": "Charli xcx",
+      "title": "Music, Fashion, Film",
+      "year": 2026,
+      "sources": "Exclaim! (positive review) · Resident Advisor (positive review)",
+      "description": "Critics note Charli xcx's shift from euphoria to a more guitar-driven sound, offering a bracing yet charming set of songs that explore themes of legacy and vanity.",
+      "aligned": false,
+      "review_url": "https://exclaim.ca/music/reviews",
+      "spotify_url": "https://open.spotify.com/album/4bR7pd6TVS53l24qFV4wI8",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02238e2ff91714a8db91b8a64d"
+    },
+    {
+      "artist": "The Strokes",
+      "title": "Reality Awaits",
+      "year": 2026,
+      "sources": "Metacritic 70 (NME 80, The Guardian 80, Clash Music 70, Glide Magazine 70, Rolling Stone 60) · No More Workhorse (Album of the Week)",
+      "description": "This album is celebrated for its playful and joyful approach, blending the band's signature sound with experimental elements and a renewed sense of vitality.",
+      "aligned": false,
+      "review_url": "https://www.metacritic.com/music/reality-awaits/the-strokes/",
+      "spotify_url": "https://open.spotify.com/album/6x0nmCMjHeuN3rYBmI5Bor",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e026b458d1409d938dad4e3ba2c"
+    },
+    {
+      "artist": "Kelela",
+      "title": "new avatar",
+      "year": 2026,
+      "sources": "Metacritic 85 · Treble Zine (positive review)",
+      "description": "Kelela's latest is praised for its winning experimentation, blending bluesy elements with UK garage flavors to create vivid and compelling electronic R&B.",
+      "aligned": true,
+      "review_url": "https://www.treblezine.com/kelela-new-avatar-album-review/",
+      "spotify_url": "https://open.spotify.com/album/0t1I0Ic8IzTND3sesj9tDE",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e0215c00fa655da7d2b186a470c"
+    },
+    {
+      "artist": "Eartheater",
+      "title": "Heavenly Body: If I'm the Bottle You're the Message",
+      "year": 2026,
+      "sources": "Jenesaispop (positive review)",
+      "description": "This album explores the multifaceted experience of motherhood with a unique blend of literal and poetic naturalism, delivered through experimental and deeply personal compositions.",
+      "aligned": true,
+      "review_url": "https://jenesaispop.com/2026/07/22/eartheater-heavenly-body-if-im-the-bottle-youre-the-message-critica/"
+    },
+    {
+      "artist": "Robyn Hitchcock",
+      "title": "The Confuser",
+      "year": 2026,
+      "sources": "No More Workhorse (positive review)",
+      "description": "Hitchcock's 25th solo album is lauded for its confident art rock, blending Syd Barrett-esque whimsy with airy psychedelia and sharp-edged rock, offering fresh perspectives on the human condition.",
+      "aligned": true,
+      "review_url": "https://nomoreworkhorse.com/2026/07/23/album-review-robyn-hitchcock-the-confuser/",
+      "spotify_url": "https://open.spotify.com/album/7yxbW9t9raKaKbm0HDOtyD",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e028b56ebc2f33918f3ad1265f7"
+    },
+    {
+      "artist": "Mohamed Bourouissa",
+      "title": "LILA",
+      "year": 2026,
+      "sources": "A Closer Listen (positive review)",
+      "description": "This \"musical object\" transforms memory into vibration, seamlessly blending experimental electronics, contemporary sound art, and fractured club music into a cohesive and intimate sonic space.",
+      "aligned": true,
+      "review_url": "https://aclosinglisten.com/2026/07/24/mohamed-bourouissa-lila/",
+      "spotify_url": "https://open.spotify.com/album/0D5uDzYh7p1odYnH7sCilv",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e020de4f6e08dae20f6273f7881"
+    }
+  ],
+  "footer": "6 albums recommended this week · AI powered by Gi :)"
+}
