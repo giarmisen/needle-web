@@ -1,0 +1,93 @@
+{
+  "week_from": "03/05/2026",
+  "week_to": "10/05/2026",
+  "albums": [
+    {
+      "artist": "Aldous Harding",
+      "title": "Train on the Island",
+      "year": 2026,
+      "sources": "Pitchfork 9.0",
+      "description": "Her latest work is praised for its unique blend of folk and country, delivered with a distinctive and captivating vocal style.",
+      "aligned": true,
+      "review_url": "https://pitchfork.com/reviews/albums/aldous-harding-train-on-the-island/",
+      "spotify_url": "https://open.spotify.com/album/0AePRMHymMl4oHBb5EuGiV",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e0273870381d130b608e2deb080"
+    },
+    {
+      "artist": "Seefeel",
+      "title": "Sol.Hz",
+      "year": 2026,
+      "sources": "Pitchfork 8.1 · Resident Advisor",
+      "description": "This album is lauded for its beautiful, hazy, and blissed-out collection of fractured melodies and vaporous textures, showcasing a return to their signature experimental electronic sound.",
+      "aligned": true,
+      "review_url": "https://pitchfork.com/reviews/albums/seefeel-sol-hz/",
+      "spotify_url": "https://open.spotify.com/album/4itsHfW3VFZ0nob3mqMCsf",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02dacdb67ca16ea682f5bc527f"
+    },
+    {
+      "artist": "Ana Roxanne",
+      "title": "Poem 1",
+      "year": 2026,
+      "sources": "Pitchfork 8.6",
+      "description": "Critics celebrate this experimental release for its ethereal soundscapes and delicate vocal work, creating an immersive and deeply atmospheric experience.",
+      "aligned": true,
+      "review_url": "https://pitchfork.com/reviews/albums/ana-roxanne-poem-1/",
+      "spotify_url": "https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02f32a3d82c33b956a32dd3fb9"
+    },
+    {
+      "artist": "American Football",
+      "title": "American Football (LP4)",
+      "year": 2026,
+      "sources": "Pitchfork 8.0 · The Line of Best Fit",
+      "description": "The band's fourth LP continues their signature blend of intricate guitar work and melancholic introspection, delivering a mature and emotionally resonant sound.",
+      "aligned": true,
+      "review_url": "https://pitchfork.com/reviews/albums/american-football-american-football-lp4/",
+      "spotify_url": "https://open.spotify.com/album/3fhKJU3nUfduKj9YhEAoGf",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e0259654022fe74df87ff7cf866"
+    },
+    {
+      "artist": "Tori Amos",
+      "title": "In Times of Dragons",
+      "year": 2026,
+      "sources": "Jenesaispop",
+      "description": "This concept album is lauded for its ambitious narrative exploring patriarchy and democracy, delivered through Tori Amos's distinctive piano-driven rock and epic string arrangements.",
+      "aligned": true,
+      "review_url": "https://jenesaispop.com/2026/05/09/tori-amos-in-times-of-dragons-critica/",
+      "spotify_url": "https://open.spotify.com/album/6KnWKWlU9xvhuOxEgkl4l2",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02d3876103bd75448785cf6d91"
+    },
+    {
+      "artist": "Lykke Li",
+      "title": "The Afterparty",
+      "year": 2026,
+      "sources": "The Line of Best Fit",
+      "description": "Lykke Li's latest is a poignant and introspective pop record, described as a \"last dance before dawn,\" showcasing her signature blend of vulnerability and atmospheric production.",
+      "aligned": true,
+      "review_url": "https://www.thelineofbestfit.com/albums/lykke-li-the-afterparty-review",
+      "spotify_url": "https://open.spotify.com/album/3eqH5aQKPKLKD1kFNBczwl",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e0290dd2011ea9c67547500b26f"
+    },
+    {
+      "artist": "Robyn",
+      "title": "Sexistential",
+      "year": 2026,
+      "sources": "Resident Advisor",
+      "description": "Robyn's ninth album is celebrated for perfecting her formula of sentimental dancefloor hits while expanding her electronic palette, offering an absurdly fun and emotionally rich experience.",
+      "aligned": true,
+      "review_url": "https://ra.co/reviews/2026/robyn-sexistential",
+      "spotify_url": "https://open.spotify.com/album/6RYCig4T2bEZu2gnM0OxRL",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e0295462e3fa8aca9db0fdd8c19"
+    },
+    {
+      "artist": "Boards of Canada",
+      "title": "Tape 05",
+      "year": 2026,
+      "sources": "Resident Advisor",
+      "description": "This surprise return from the mysterious duo is praised for its beautiful and intricate electronic soundscapes, continuing their legacy of evocative and atmospheric music.",
+      "aligned": true,
+      "review_url": "https://ra.co/reviews/2026/boards-of-canada-tape-05"
+    }
+  ],
+  "footer": "8 albums recommended this week · AI powered by Gi :)"
+}

@@ -1,0 +1,95 @@
+{
+  "week_from": "28/06/2026",
+  "week_to": "05/07/2026",
+  "albums": [
+    {
+      "artist": "Madonna",
+      "title": "Confessions II",
+      "year": 2026,
+      "sources": "Pitchfork 8.1",
+      "description": "Critics hail this as a fresh and honest dance record, marking a vital addition to her discography and a groundbreaking moment in pop.",
+      "aligned": true,
+      "review_url": "https://pitchfork.com",
+      "spotify_url": "https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e022e45924aa55275c64280cada"
+    },
+    {
+      "artist": "Deep Purple",
+      "title": "Splat!",
+      "year": 2026,
+      "sources": "Metacritic 79",
+      "description": "This album is lauded as a remarkable torrent of energy and the heaviest Deep Purple album in years, delivering furious pacing and capturing the band's essence.",
+      "aligned": false,
+      "review_url": "https://www.metacritic.com/music/splat!/deep-purple",
+      "spotify_url": "https://open.spotify.com/album/5ZbFqFJFLaNnmmZiIJ1I5Q",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e0208c47a548c41f1482b930317"
+    },
+    {
+      "artist": "Haggus",
+      "title": "The Mincecore Manifesto",
+      "year": 2026,
+      "sources": "Exclaim! (positive review)",
+      "description": "This EP is praised for its high-energy, politically charged mincecore sound, skillfully blending punk, grind, and thrash metal with humor and anti-authority lyrics.",
+      "aligned": false,
+      "review_url": "https://exclaim.ca/music/article/hagguss_the_mincecore_manifesto_doesnt_mince_subgenre_pride",
+      "spotify_url": "https://open.spotify.com/album/1CdmTlGfzyzWyPHAinXElm",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02377048c4a28bcb220c3a437c"
+    },
+    {
+      "artist": "Dead Pioneers",
+      "title": "Wagon Burner",
+      "year": 2026,
+      "sources": "PopMatters (positive review)",
+      "description": "An incredibly moving and politically charged punk-rock album that combines defiant carnage with evocative spoken word, serving as a necessary weapon against fascism.",
+      "aligned": false,
+      "review_url": "https://www.popmatters.com/dead-pioneers-wagon-burner-review",
+      "spotify_url": "https://open.spotify.com/album/2t0OhmKHpBeojQea3Y9nSs",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02d2d72abab3dbe954d0798655"
+    },
+    {
+      "artist": "Khun Narin",
+      "title": "III",
+      "year": 2026,
+      "sources": "PopMatters (positive review)",
+      "description": "This album showcases the multi-generational Thai ensemble's strengths, with the electrified phin leading psychedelic and entrancing melodies over dense percussion.",
+      "aligned": false,
+      "review_url": "https://www.popmatters.com/khun-narin-iii-album-review",
+      "spotify_url": "https://open.spotify.com/album/6Kyy5wmpVDpFerNwWCLu9T",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e029d466d5be5a10674631a5bc1"
+    },
+    {
+      "artist": "Jacob Ungerleider",
+      "title": "Congratulations",
+      "year": 2026,
+      "sources": "PopMatters (positive review)",
+      "description": "A stunning album praised for its self-doubt, grace, and wit, drawing comparisons to the quiet elegance of Elliott Smith and the timeless stylings of Harry Nilsson.",
+      "aligned": true,
+      "review_url": "https://www.popmatters.com/jacob-ungerleider-congratulations-album-review",
+      "spotify_url": "https://open.spotify.com/album/7t8c5IGvW0z9wFeggJ3jgZ",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02a580c14e6d62107ec2d8b6d6"
+    },
+    {
+      "artist": "Low Cut Connie",
+      "title": "Livin In The USA",
+      "year": 2026,
+      "sources": "PopMatters (positive review)",
+      "description": "This album is both a protest and a party, balancing joy and defiance with high-octane rock and roll, featuring aggressive vocals and driving melodies.",
+      "aligned": false,
+      "review_url": "https://www.popmatters.com/low-cut-connie-livin-in-the-usa-review",
+      "spotify_url": "https://open.spotify.com/album/1r3XPwU4FWbBqhi7CTShrl",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e0258dc80e586f548b663e8066a"
+    },
+    {
+      "artist": "Mary in the Junkyard",
+      "title": "Role Model Hermit",
+      "year": 2026,
+      "sources": "The Line of Best Fit (positive review)",
+      "description": "An eccentric and complicated debut, blending traditional storytelling with folk-indebted alternative rock to create melancholy, chaotic compositions with a distinct sense of place.",
+      "aligned": true,
+      "review_url": "https://www.thelineofbestfit.com/reviews/albums/mary-in-the-junkyard-role-model-hermit-review",
+      "spotify_url": "https://open.spotify.com/album/0r5nmjIvD8FmcgWsILF1Eh",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e027642addd573054269cb9a577"
+    }
+  ],
+  "footer": "8 albums recommended this week · AI powered by Gi :)"
+}

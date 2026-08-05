@@ -1,0 +1,91 @@
+{
+  "week_from": "14/06/2026",
+  "week_to": "21/06/2026",
+  "albums": [
+    {
+      "artist": "Olivia Rodrigo",
+      "title": "you seem pretty sad for a girl so in love",
+      "year": 2026,
+      "sources": "The Line of Best Fit · PopMatters · WhoRepresents.com",
+      "description": "Critics praise Rodrigo's maturing musical palette, tremendous range in songwriting and vocals, and her ability to maintain charm and authenticity while shifting to a synth-heavy, goth 80s sound.",
+      "aligned": true,
+      "review_url": "https://www.popmatters.com",
+      "spotify_url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e025cf234eeb7a2edf44bf64a46"
+    },
+    {
+      "artist": "Kelsey Lu",
+      "title": "So Help Me God",
+      "year": 2026,
+      "sources": "The Line of Best Fit",
+      "description": "Reviewed this week as a significant new release, Kelsey Lu's latest work continues to explore her unique blend of avant-garde sounds.",
+      "aligned": true,
+      "review_url": "https://www.thelineofbestfit.com",
+      "spotify_url": "https://open.spotify.com/album/1NRIhAmDSsF25lFAwv4pDt",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02cae4914e4fb885c817fcc39e"
+    },
+    {
+      "artist": "Tierra Whack",
+      "title": "Whack's Museum",
+      "year": 2026,
+      "sources": "Stereogum · Exclaim!",
+      "description": "Tierra Whack delivers an effortlessly hard new mixtape, showcasing her distinctive rapping style and creative vision.",
+      "aligned": true,
+      "review_url": "https://www.stereogum.com"
+    },
+    {
+      "artist": "Dour",
+      "title": "Agora",
+      "year": 2026,
+      "sources": "The Line of Best Fit",
+      "description": "This album is described as a reverbic and tenebrous seascape, offering a deeply atmospheric and immersive listening experience.",
+      "aligned": true,
+      "review_url": "https://www.thelineofbestfit.com",
+      "spotify_url": "https://open.spotify.com/album/4K68BzrOxpULRlz6f0ejw0",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e0232eb418a1e302d04f2e64ef3"
+    },
+    {
+      "artist": "Ruth Garbus",
+      "title": "Profound",
+      "year": 2026,
+      "sources": "PopMatters",
+      "description": "Garbus crafts thought-provoking bedroom pop, praised for its musical adventurousness, wonder, and revelatory maturity and self-acceptance.",
+      "aligned": true,
+      "review_url": "https://www.popmatters.com",
+      "spotify_url": "https://open.spotify.com/album/08NmkFu1rWiXZk9ZblZ959",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e0210ac405d49068e5fa1db7d1f"
+    },
+    {
+      "artist": "Malcolm Todd",
+      "title": "Do That Again",
+      "year": 2026,
+      "sources": "PopMatters",
+      "description": "Malcolm Todd presents a singular vision for the future of pop, transforming personal misadventures into psychedelic jams.",
+      "aligned": true,
+      "review_url": "https://www.popmatters.com",
+      "spotify_url": "https://open.spotify.com/album/3IKW2jLFBTUGEIwJha62vD",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02a1cac678024bb37d83ab012c"
+    },
+    {
+      "artist": "YHWH Nailgun",
+      "title": "Magazine",
+      "year": 2026,
+      "sources": "Pitchfork 8.0",
+      "description": "Pitchfork hails this album as a tremendous next step, with YHWH Nailgun expertly fitting structure and sophistication into tight spaces.",
+      "aligned": false,
+      "review_url": "https://www.pitchfork.com",
+      "spotify_url": "https://open.spotify.com/album/5nT9mBH0yosh5yRuCqpKW3",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e0212cfd53ea78f73ebe2d299c7"
+    },
+    {
+      "artist": "Squirrel Flower",
+      "title": "Say A Prayer To The Gods Of Getting Going",
+      "year": 2026,
+      "sources": "Stereogum",
+      "description": "Squirrel Flower's new album is a notable release this week, offering her distinctive singer-songwriter style.",
+      "aligned": true,
+      "review_url": "https://www.stereogum.com"
+    }
+  ],
+  "footer": "8 albums recommended this week · AI powered by Gi :)"
+}

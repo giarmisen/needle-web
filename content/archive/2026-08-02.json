@@ -1,0 +1,89 @@
+{
+  "week_from": "26/07/2026",
+  "week_to": "02/08/2026",
+  "albums": [
+    {
+      "artist": "The Strokes",
+      "title": "Reality Awaits",
+      "year": 2026,
+      "sources": "NME · Pitchfork",
+      "description": "Critics note this album takes the band further from their origins, showcasing a playful and experimental approach with frontman Julian Casablancas utilizing diverse vocal effects. It features rock-solid, infectious tunes with prominent synths, making it a contender for best album of the year.",
+      "aligned": false,
+      "review_url": "https://www.nme.com",
+      "spotify_url": "https://open.spotify.com/album/6x0nmCMjHeuN3rYBmI5Bor",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e026b458d1409d938dad4e3ba2c"
+    },
+    {
+      "artist": "Nia Archives",
+      "title": "New Album",
+      "year": 2026,
+      "sources": "PopMatters",
+      "description": "This new album from Nia Archives brilliantly expands on jungle influences, showcasing a gifted artist and producer who transcends her inspirations to reveal a bewitching and unique style.",
+      "aligned": true,
+      "review_url": "https://www.popmatters.com"
+    },
+    {
+      "artist": "Picture (AKA Natal Zaks)",
+      "title": "Uuuuuuuu",
+      "year": 2026,
+      "sources": "Resident Advisor",
+      "description": "The artist, also known as Central, masterfully turns towards dub techno, injecting the form with more spark and movement than has been heard in years, creating a delightful and engaging listen.",
+      "aligned": true,
+      "review_url": "https://ra.co"
+    },
+    {
+      "artist": "Korea Town Acid",
+      "title": "Return To The Grid",
+      "year": 2026,
+      "sources": "Resident Advisor",
+      "description": "This new album explores the intricate tension between organic environments and digital systems, offering a compelling and immersive electronic experience.",
+      "aligned": true,
+      "review_url": "https://ra.co",
+      "spotify_url": "https://open.spotify.com/album/3eICcbbPGs4B7n9T9RPtiK",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e020b2a77a814807009ef471a98"
+    },
+    {
+      "artist": "Pylar",
+      "title": "Delyrio",
+      "year": 2026,
+      "sources": "TURN UP THE VOLUME",
+      "description": "This avant-garde drone/doom metal album from Sevilla, Spain, manifests dread as dark power across four captivating acts, venturing deeper into extreme metal textures and ritualized otherworldly performances.",
+      "aligned": true,
+      "review_url": "https://turnupthevolume.blog",
+      "spotify_url": "https://open.spotify.com/album/6px0VbQw77PMMG9NqNwrV1",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02d8dbe734946fbf9490d31481"
+    },
+    {
+      "artist": "The Durutti Column",
+      "title": "Renascent",
+      "year": 2026,
+      "sources": "Silent Radio",
+      "description": "Across five decades, The Durutti Column continues to move fluidly between indie chamber music, modern classical suites, sampledelia, dance experimentation, and flamenco-tinged pop, anchored by Vini Reilly's delicate and expressive guitar work.",
+      "aligned": true,
+      "review_url": "https://silentradio.co.uk",
+      "spotify_url": "https://open.spotify.com/album/5YocvK2G7GuMDS1YHX51YV",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e0206863efd26b96b3d1b7e43eb"
+    },
+    {
+      "artist": "Rob Smith",
+      "title": "Salt Star",
+      "year": 2026,
+      "sources": "PopMatters",
+      "description": "This album is a brief, bright light of emotion and musical interplay, showcasing Rob Smith's unique and consistently engaging vision through mesmerizing psychedelic folk.",
+      "aligned": true,
+      "review_url": "https://www.popmatters.com"
+    },
+    {
+      "artist": "Cautious Clay",
+      "title": "The Hours: High Noon",
+      "year": 2026,
+      "sources": "PopMatters",
+      "description": "This album conceptually completes a non-linear trilogy, delivering a deeply resonant reflection on daily life and the passage of time through R&B artistry.",
+      "aligned": true,
+      "review_url": "https://www.popmatters.com",
+      "spotify_url": "https://open.spotify.com/album/0nCFgJTknbfdfXiWBpREB3",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e0215661b8c47dcc10d194f477a"
+    }
+  ],
+  "footer": "8 albums recommended this week · AI powered by Gi :)"
+}

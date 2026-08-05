@@ -1,0 +1,91 @@
+{
+  "week_from": "21/06/2026",
+  "week_to": "28/06/2026",
+  "albums": [
+    {
+      "artist": "Chanel Beads",
+      "title": "Your Day Will Come",
+      "year": 2026,
+      "sources": "Les Inrockuptibles · Jenesaispop · The Line of Best Fit",
+      "description": "The American artist Shane Lavers continues to enchant listeners with his mystical pop, which critics describe as a captivating blend of ethereal sounds and introspective songwriting.",
+      "aligned": true,
+      "review_url": "https://www.lesinrocks.com/musique/chanel-beads-alewya-ibeyi-voici-les-5-albums-de-la-semaine-2026-06-26/",
+      "spotify_url": "https://open.spotify.com/album/0TX4JFqSmYn8T7qMpZbvGY",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e028671a62813f58b499c8fccc3"
+    },
+    {
+      "artist": "Beth Orton",
+      "title": "The Ground Above",
+      "year": 2026,
+      "sources": "Paste Magazine · Jenesaispop",
+      "description": "Orton's ninth studio album delves into themes of longing, grief, and motherhood, combining her signature folk sensibilities with expansive arrangements and evocative string parts.",
+      "aligned": true,
+      "review_url": "https://www.pastemagazine.com/music/new-albums-to-stream-today-june-28-2026/",
+      "spotify_url": "https://open.spotify.com/album/2xsnBz8QqjNPUDVFp0PKZS",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e027b3c19207864e04f65e16741"
+    },
+    {
+      "artist": "Dagny",
+      "title": "Dancefloor Erotica",
+      "year": 2026,
+      "sources": "Jenesaispop 8",
+      "description": "This Norwegian singer-songwriter delivers a cohesive pop album exploring self-reflection, featuring a blend of future disco, ABBA-esque melodies, and catchy synthetic strings.",
+      "aligned": false,
+      "review_url": "https://jenesaispop.com/2026/06/26/dagny-dancefloor-erotica/",
+      "spotify_url": "https://open.spotify.com/album/7aQhFdYGBss6RCYMa7fwyp",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02de5f10fa738ab303c1ea8689"
+    },
+    {
+      "artist": "Fiddlehead",
+      "title": "Baby I'll Change",
+      "year": 2026,
+      "sources": "Stereogum",
+      "description": "The post-hardcore band expands its sound with a more shoegaze-influenced EP, showcasing a vulnerable side with sparse instrumentation that builds to a sonic explosion.",
+      "aligned": true,
+      "review_url": "https://www.stereogum.com/2026/06/23/fiddlehead-announce-new-ep-out-friday-hear-title-track-baby-ill-change/news/",
+      "spotify_url": "https://open.spotify.com/album/4CVVwvRtLNlSNKb8CGNKIG",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02d5d902851dafd1dde9dfd3e2"
+    },
+    {
+      "artist": "Odd Okoddo and Ogoya Nengo",
+      "title": "Give Their Dreamscape an Edge",
+      "year": 2026,
+      "sources": "PopMatters",
+      "description": "Their collaboration offers an exceptional blend of \"dreamscape\" and \"folktronica,\" pushing boundaries within the progressive realm of electronic folk music.",
+      "aligned": true,
+      "review_url": "https://www.popmatters.com/popmatters-picks/music-reviews/odd-okoddo-ogoya-nengo-dreamscape-edge-review-2026"
+    },
+    {
+      "artist": "Mala Gestión",
+      "title": "Hacemos lo que podemos",
+      "year": 2026,
+      "sources": "Jenesaispop",
+      "description": "Mala Gestión describes their sound as \"ñunk,\" a raw and energetic style that critics connect to punk aesthetics.",
+      "aligned": true,
+      "review_url": "https://jenesaispop.com/2026/06/24/mala-gestion-hacemos-lo-que-podemos/",
+      "spotify_url": "https://open.spotify.com/album/1tfz35tbgSLtSt8v8SSBPJ",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02fcc724aac2af5b1e0e65b7ea"
+    },
+    {
+      "artist": "Paul McCartney",
+      "title": "The Boys of Dungeon Lane",
+      "year": 2026,
+      "sources": "PopMatters",
+      "description": "Paul McCartney's latest EP uses sound to vividly portray childhood memories and ordinary moments, both real and imagined, transforming them into memorable stories.",
+      "aligned": true,
+      "review_url": "https://www.popmatters.com/music/paul-mccartney-explores-childhood-memories-in-sound-review-2026",
+      "spotify_url": "https://open.spotify.com/album/34Sh6TOqfsrPSeXPBRGRAM",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02b77687e2af1718917b805977"
+    },
+    {
+      "artist": "Spontaneous Music Live",
+      "title": "Spontaneous Music Live",
+      "year": 2026,
+      "sources": "Paste Magazine",
+      "description": "This album captures the raw imperfections and unified purpose of live improvisation, creating a joyful experience through its exploration of sound and silent spaces.",
+      "aligned": true,
+      "review_url": "https://www.pastemagazine.com/music/new-albums-to-stream-today-june-28-2026/"
+    }
+  ],
+  "footer": "8 albums recommended this week · AI powered by Gi :)"
+}

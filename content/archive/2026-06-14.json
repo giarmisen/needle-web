@@ -1,0 +1,91 @@
+{
+  "week_from": "07/06/2026",
+  "week_to": "14/06/2026",
+  "albums": [
+    {
+      "artist": "Lizzo",
+      "title": "BITCH",
+      "year": 2026,
+      "sources": "Jenesaispop · Ototoy",
+      "description": "Lizzo delivers a powerful new album that reinforces her status as a key figure in body positivity and self-love, navigating a complex professional moment with her signature flair.",
+      "aligned": true,
+      "review_url": "https://jenesaispop.com/discos/",
+      "spotify_url": "https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02641d09ed0851bbee10828e49"
+    },
+    {
+      "artist": "Lemoncello",
+      "title": "Perfect Place",
+      "year": 2026,
+      "sources": "PopMatters",
+      "description": "This Irish folk-pop duo achieves a remarkable feat of musical alchemy, crafting an accomplished album that critics believe should garner them a wider audience.",
+      "aligned": true,
+      "review_url": "https://www.popmatters.com/reviews",
+      "spotify_url": "https://open.spotify.com/album/0Q2JNQOIzp8ynfosFsduUO",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02fcb2cc57a1efa7894f00b5aa"
+    },
+    {
+      "artist": "A.A. Williams",
+      "title": "Solstice",
+      "year": 2026,
+      "sources": "PopMatters",
+      "description": "With \"Solstice,\" A.A. Williams solidifies her reputation as a transcendent singer of her generation, further developing her compelling persona as a tragic heroine.",
+      "aligned": true,
+      "review_url": "https://www.popmatters.com/reviews",
+      "spotify_url": "https://open.spotify.com/album/17kNpscu08TKcibwSjUxbP",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e021f546881c7f186ef7a27564a"
+    },
+    {
+      "artist": "SLIFT",
+      "title": "Fantasia",
+      "year": 2026,
+      "sources": "PopMatters",
+      "description": "SLIFT delivers a triumphant concept album that powerfully conveys a message of planetary crisis through its unyielding and noisy sound.",
+      "aligned": true,
+      "review_url": "https://www.popmatters.com/reviews",
+      "spotify_url": "https://open.spotify.com/album/1BAZfqnxagI9RNfIVr8FwQ",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02be47b9c90a4494aabab327c4"
+    },
+    {
+      "artist": "The Dengie Hundred with Gemma Blackshaw",
+      "title": "Days in Pieces",
+      "year": 2026,
+      "sources": "Bandcamp Daily",
+      "description": "This mesmerizing album offers haunted nighttime invocations, weaving a beautiful and dark secret through ambient, experimental, and dark folk sounds.",
+      "aligned": true,
+      "review_url": "https://ghosttropics.substack.com/p/the-bandcamp-roundup-june-2026"
+    },
+    {
+      "artist": "Paw Grabowski",
+      "title": "Kosmos Træder I Sort Blomst",
+      "year": 2026,
+      "sources": "Bandcamp Daily",
+      "description": "An incredible and singular journey, this album features shimmering guitar tapestries that evoke an otherworldly glimpse beyond the veil.",
+      "aligned": true,
+      "review_url": "https://ghosttropics.substack.com/p/the-bandcamp-roundup-june-2026"
+    },
+    {
+      "artist": "Emilia, Pardo y Bazán",
+      "title": "Qué ha sido de los planes que hicimos anoche cuando estábamos borrachos",
+      "year": 2026,
+      "sources": "Rockdelux",
+      "description": "This Spanish indie pop album captures a vibrant, spontaneous energy, reflecting on the fleeting moments and plans made in the haze of a night out.",
+      "aligned": true,
+      "review_url": "https://rockdelux.com/discos/",
+      "spotify_url": "https://open.spotify.com/album/2rBEnYmhKJNtoR0USzLOCV",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02d52c2300ef28a36ad12ee3d3"
+    },
+    {
+      "artist": "Genesis Owusu",
+      "title": "REDSTAR WU & THE WORLDWIDE SCOURGE",
+      "year": 2026,
+      "sources": "KEXP",
+      "description": "This album showcases a compelling blend of hip-hop and R&B, demonstrating Genesis Owusu's unique artistic vision and dynamic sound.",
+      "aligned": true,
+      "review_url": "https://www.kexp.org/charts/",
+      "spotify_url": "https://open.spotify.com/album/0nhxoQOhijxQPzPBv6OK9V",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e0270202a53753de37a79b85d4a"
+    }
+  ],
+  "footer": "8 albums recommended this week · AI powered by Gi :)"
+}

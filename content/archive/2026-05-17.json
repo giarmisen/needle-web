@@ -1,0 +1,91 @@
+{
+  "week_from": "10/05/2026",
+  "week_to": "17/05/2026",
+  "albums": [
+    {
+      "artist": "Drake",
+      "title": "HABIBTI",
+      "year": 2026,
+      "sources": "Jenesaispop (review May 15, 2026)",
+      "description": "This album delves into moody R&B soundscapes, showcasing Drake's versatility beyond his more trap-focused releases.",
+      "aligned": true,
+      "review_url": "https://jenesaispop.com/2026/05/15/drake-saca-tres-discos-de-golpe/",
+      "spotify_url": "https://open.spotify.com/album/57od8OD4RYQiCe9jKKiUCW",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02bb0ef065b3eecc5f1c9ab26b"
+    },
+    {
+      "artist": "MUNA",
+      "title": "Dancing on the Wall",
+      "year": 2026,
+      "sources": "Jenesaispop (review May 13, 2026)",
+      "description": "This album is lauded for its vibrant synth-pop and indie rock anthems, exploring themes of politicized libido with infectious energy.",
+      "aligned": true,
+      "review_url": "https://jenesaispop.com/2026/05/13/muna-dancing-on-the-wall/",
+      "spotify_url": "https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e029db5c80354d45ef87ae5bfd3"
+    },
+    {
+      "artist": "Lykke Li",
+      "title": "The Afterparty",
+      "year": 2026,
+      "sources": "Jenesaispop (review May 12, 2026)",
+      "description": "Lykke Li delivers a captivating blend of indie pop, with critics noting its immersive quality that leaves a lasting impression.",
+      "aligned": true,
+      "review_url": "https://jenesaispop.com/2026/05/12/lykke-li-the-afterparty/",
+      "spotify_url": "https://open.spotify.com/album/3eqH5aQKPKLKD1kFNBczwl",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e0290dd2011ea9c67547500b26f"
+    },
+    {
+      "artist": "Aldous Harding",
+      "title": "Train on the Island",
+      "year": 2026,
+      "sources": "Jenesaispop (review May 11, 2026)",
+      "description": "Hailed as her best work yet, this album presents peculiar and accessible folk-rock landscapes, showcasing her unique lyrical style and captivating artistry.",
+      "aligned": true,
+      "review_url": "https://jenesaispop.com/2026/05/11/aldous-harding-train-on-the-island/",
+      "spotify_url": "https://open.spotify.com/album/0AePRMHymMl4oHBb5EuGiV",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e0273870381d130b608e2deb080"
+    },
+    {
+      "artist": "Guille Galván",
+      "title": "Nadie con ese nombre vive aquí",
+      "year": 2026,
+      "sources": "Jenesaispop (review May 11, 2026)",
+      "description": "The Vetusta Morla guitarist's solo album is a deeply personal and reflective work, praised for its poignant lyricism and intimate indie pop sound.",
+      "aligned": true,
+      "review_url": "https://jenesaispop.com/2026/05/11/guille-galvan-nadie-con-ese-nombre-vive-aqui/",
+      "spotify_url": "https://open.spotify.com/album/5Yzyk2mQPCscSACwVnL2IJ",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e027601d1f9c54b95dc880cc9e4"
+    },
+    {
+      "artist": "Requin Chagrin",
+      "title": "Self-Titled EP",
+      "year": 2026,
+      "sources": "Jenesaispop (review May 17, 2026)",
+      "description": "Marion Brunetto's latest under her Requin Chagrin moniker offers exceptional multi-instrumental indie pop, continuing her decade-long streak of captivating releases.",
+      "aligned": true,
+      "review_url": "https://jenesaispop.com/2026/05/17/requin-chagrin-self-titled-ep/"
+    },
+    {
+      "artist": "Dua Saleh",
+      "title": "Of Earth & Wires",
+      "year": 2026,
+      "sources": "The High Note (review May 15, 2026)",
+      "description": "This album is a futuristic exploration, cementing Dua Saleh's status as an innovative voice in contemporary music with its boundary-pushing sound.",
+      "aligned": true,
+      "review_url": "https://thehighnote.org/new-music-friday-may-15-2026/",
+      "spotify_url": "https://open.spotify.com/album/3qNTvRIpk5NhtwDOAUMeMx",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e025a410814a9b4da0f6fd376f6"
+    },
+    {
+      "artist": "Sunn O)))",
+      "title": "Self-Titled Tenth Album",
+      "year": 2026,
+      "sources": "The Wire (via Forced Exposure, review May 15, 2026)",
+      "description": "The drone metal pioneers continue to redefine heaviness with their latest minimalist offering, praised for its immersive and powerful soundscapes.",
+      "aligned": true,
+      "review_url": "https://www.forcedexposure.com/Labels/THE.WIRE.MAGAZINE.UK/THE.WIRE.:.507.MAY.2026.-.MAG.html"
+    }
+  ],
+  "footer": "8 albums recommended this week · AI powered by Gi :)"
+}

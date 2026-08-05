@@ -1,0 +1,91 @@
+{
+  "week_from": "12/04/2026",
+  "week_to": "19/04/2026",
+  "albums": [
+    {
+      "artist": "Jessie Ware",
+      "title": "Superbloom",
+      "year": 2026,
+      "sources": "Les Inrockuptibles · Jenesaispop",
+      "description": "Critics praise this album for its sophisticated blend of disco-infused pop and soulful vocals, showcasing Ware's continued evolution as an artist with a knack for elegant, danceable anthems.",
+      "aligned": true,
+      "review_url": "https://www.lesinrocks.com/musique/tiga-jessie-ware-yaya-bey-voici-les-5-albums-de-la-semaine-597541-17-04-2026/",
+      "spotify_url": "https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02fc729e4f9d5e6d9a65f974c9"
+    },
+    {
+      "artist": "Yaya Bey",
+      "title": "Fidelity",
+      "year": 2026,
+      "sources": "Les Inrockuptibles · The Line of Best Fit",
+      "description": "This album is lauded for its intimate and experimental take on R&B, featuring Bey's distinctive vocal delivery over lush, genre-bending productions that explore themes of love and self-discovery.",
+      "aligned": true,
+      "review_url": "https://www.thelineofbestfit.com/albums/yaya-bey-fidelity",
+      "spotify_url": "https://open.spotify.com/album/4gT5itNBVYzC9jcgMvvOUa",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02270dc4a1c4927e260c24301c"
+    },
+    {
+      "artist": "Hannah Lew",
+      "title": "Hannah Lew",
+      "year": 2026,
+      "sources": "KEXP",
+      "description": "Her debut solo effort is celebrated for its magnetic synth-pop sound, infused with vibrant post-punk and dream-pop aesthetics, creating a collection of glistening and addictive anthems.",
+      "aligned": true,
+      "review_url": "https://www.kexp.org/new-music-reviews/2026/4/13/"
+    },
+    {
+      "artist": "Luby Sparks",
+      "title": "ROMEO IS A DEAD MAN (EP)",
+      "year": 2026,
+      "sources": "OTOTOY",
+      "description": "This EP is noted for its dynamic range, moving from industrial-tinged alternative sounds to dreamy indie pop and heavy shoegaze, demonstrating the band's versatile and evocative songwriting.",
+      "aligned": true,
+      "review_url": "https://ototoy.jp/news/106969"
+    },
+    {
+      "artist": "Have a Nice Day!",
+      "title": "CLOUD NINE",
+      "year": 2026,
+      "sources": "OTOTOY",
+      "description": "Critics commend this album for its innovative fusion of rock energy with diverse electronic genres like EDM, UK garage, and new wave, delivering a powerful narrative of urban life.",
+      "aligned": true,
+      "review_url": "https://ototoy.jp/news/106967",
+      "spotify_url": "https://open.spotify.com/album/0twgYasO09t8dBD4rcn1Oj",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e029a4401e57b851a4accb0acd9"
+    },
+    {
+      "artist": "Kany García",
+      "title": "Puerta Abierta",
+      "year": 2026,
+      "sources": "Remezcla",
+      "description": "García's latest is praised for its ability to seamlessly blend traditional folk and Latin pop with new explorations into música mexicana and bachata, showcasing her evolving artistry and impactful songwriting.",
+      "aligned": true,
+      "review_url": "https://remezcla.com/music/kany-garcia-puerta-abierta-album-interview/",
+      "spotify_url": "https://open.spotify.com/album/6WxZB5gxWmzRvKVzG2Pu9P",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02e64d4f6a3d2dc1e04c0716d4"
+    },
+    {
+      "artist": "TOMORA",
+      "title": "COME CLOSER",
+      "year": 2026,
+      "sources": "The Line of Best Fit",
+      "description": "This album receives acclaim for its compelling songwriting and immersive soundscapes, drawing listeners into a deeply personal and reflective musical journey.",
+      "aligned": false,
+      "review_url": "https://www.thelineofbestfit.com/albums/tomora-come-closer",
+      "spotify_url": "https://open.spotify.com/album/64FOGaSyhQfEBe8qJa8uBe",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e022ce3471ceca332307251def4"
+    },
+    {
+      "artist": "Tiga",
+      "title": "HOTLIFE",
+      "year": 2026,
+      "sources": "Les Inrockuptibles",
+      "description": "Tiga's new release is recognized for its energetic electronic tracks, offering a vibrant and engaging experience that solidifies his reputation in the dance music scene.",
+      "aligned": false,
+      "review_url": "https://www.lesinrocks.com/musique/tiga-jessie-ware-yaya-bey-voici-les-5-albums-de-la-semaine-597541-17-04-2026/",
+      "spotify_url": "https://open.spotify.com/album/2Yu4om24Rz6igbGawd8Aak",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e025983cc5426990bc03fdee2fb"
+    }
+  ],
+  "footer": "8 albums recommended this week · AI powered by Gi :)"
+}

@@ -1,0 +1,73 @@
+{
+  "week_from": "12/07/2026",
+  "week_to": "19/07/2026",
+  "albums": [
+    {
+      "artist": "Kelela",
+      "title": "new avatar",
+      "year": 2026,
+      "sources": "Exclaim! (review 14/07/2026) · KEXP (review 13/07/2026) · Resident Advisor (review July 2026)",
+      "description": "Kelela masterfully reconfigures shoegaze, IDM, and R&B into a \"Black, femme sound of the future,\" expanding the boundaries of alternative R&B with electronic production, experimental sounds, and gorgeous vocals.",
+      "aligned": true,
+      "review_url": "https://exclaim.ca/music/article/kelelas_new_avatar_offers_a_glimpse_of_another_world",
+      "spotify_url": "https://open.spotify.com/album/0t1I0Ic8IzTND3sesj9tDE",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e0215c00fa655da7d2b186a470c"
+    },
+    {
+      "artist": "Steve Lacy",
+      "title": "Oh yeah?",
+      "year": 2026,
+      "sources": "Les Inrockuptibles (news 17/07/2026) · OTOTOY (news 17/07/2026) · Exclaim! (release list 17/07/2026)",
+      "description": "Steve Lacy's third album, featuring prestigious guests, blends soul, funk, and hip-hop to update alternative R&B with a unique interpretation.",
+      "aligned": true,
+      "review_url": "https://www.lesinrocks.com/musique/charli-xcx-the-strokes-steve-lacy-la-trinite-musicale-de-votre-ete-270831-17-07-2026/",
+      "spotify_url": "https://open.spotify.com/album/289GZwycrFReuNB706obBx",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e024ea9ba86cd9506a004bab042"
+    },
+    {
+      "artist": "Swapmeet",
+      "title": "Mount Zero",
+      "year": 2026,
+      "sources": "The Line of Best Fit 8/10 (review 16/07/2026)",
+      "description": "This alt-rock album delivers abundant hooks, showcasing a blend of restless and controlled magnetic riffs alongside careful deadpan vocals, illustrating the disorienting shift from adolescence to adulthood.",
+      "aligned": true,
+      "review_url": "https://www.thelineofbestfit.com/albums/swapmeet-mount-zero-review-biggest-draw-is-its-hooks-for-days",
+      "spotify_url": "https://open.spotify.com/album/6MkGAjdvZDLijPcPBVQQFQ",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02bd093a776b0ddf5d8bd8083e"
+    },
+    {
+      "artist": "Baby Rose",
+      "title": "YEARNALISM",
+      "year": 2026,
+      "sources": "KEXP (review 13/07/2026)",
+      "description": "Baby Rose's breathtaking third album is an instant-classic, exploring the multifaceted nature of desire through a seductive fusion of R&B, soul, and jazz with expansive arrangements.",
+      "aligned": true,
+      "review_url": "https://www.kexp.org/read/2026/7/13/new-music-reviews-713/",
+      "spotify_url": "https://open.spotify.com/album/3WaxSapHGFrhvipg1wuLta",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e021d1bd14e251142f2f9b06171"
+    },
+    {
+      "artist": "Olaf Rupp",
+      "title": "Fuzzy Logic",
+      "year": 2026,
+      "sources": "PopMatters (review 16/07/2026)",
+      "description": "An impressive and deeply satisfying avant-garde solo guitar work that combines elements of flamenco with the influence of free improvisation, creating a space of endless experimentalism.",
+      "aligned": true,
+      "review_url": "https://www.popmatters.com/olaf-rupp-fuzzy-logic-review-2666872957",
+      "spotify_url": "https://open.spotify.com/album/49IqEd8atUnsg1gY4ABgDw",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e0204be735c76e85f9936aaa6a2"
+    },
+    {
+      "artist": "Tricky",
+      "title": "Different When It's Silent",
+      "year": 2026,
+      "sources": "The Line of Best Fit (review 16/07/2026)",
+      "description": "Tricky's latest album avoids nostalgia, presenting a distinct sound that showcases his continued evolution.",
+      "aligned": false,
+      "review_url": "https://www.thelineofbestfit.com/albums/different-when-its-silent-sees-tricky-avoid-the-nostalgia-act",
+      "spotify_url": "https://open.spotify.com/album/39TwXOWMIvjv4kzErdhoOj",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02f76074cebb21199d738a6fc6"
+    }
+  ],
+  "footer": "6 albums recommended this week · AI powered by Gi :)"
+}

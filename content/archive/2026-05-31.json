@@ -1,0 +1,79 @@
+{
+  "week_from": "24/05/2026",
+  "week_to": "31/05/2026",
+  "albums": [
+    {
+      "artist": "Ana Roxanne",
+      "title": "Poem 1",
+      "year": 2026,
+      "sources": "Jenesaispop",
+      "description": "Critics appreciate this EP for its contemplative exploration of themes like the \"pleasure of slowness,\" offering a gentle and introspective listening experience.",
+      "aligned": true,
+      "review_url": "https://jenesaispop.com/discos/"
+    },
+    {
+      "artist": "Boards of Canada",
+      "title": "Inferno",
+      "year": 2026,
+      "sources": "Uncut · Exclaim!",
+      "description": "This long-awaited album, their first in 13 years, is hailed as an engrossing and molten creation myth, delivering 70 minutes of their signature enigmatic electronic sound.",
+      "aligned": true,
+      "review_url": "https://exclaim.ca/music/article/boards_of_canada_inferno_is_a_molten_creation_myth"
+    },
+    {
+      "artist": "María José Llergo",
+      "title": "El juego",
+      "year": 2026,
+      "sources": "Jenesaispop",
+      "description": "Llergo's third album is noted for its deliberately quirky and unsettling cover, signaling a work that delves into unique and profound artistic expressions.",
+      "aligned": true,
+      "review_url": "https://jenesaispop.com/discos/"
+    },
+    {
+      "artist": "Requin Chagrin",
+      "title": "Décollage",
+      "year": 2026,
+      "sources": "Jenesaispop",
+      "description": "This \"reverbcore\" indie-rock album is celebrated as a superb new work, showcasing a sound characterized by lush, atmospheric textures and compelling melodies.",
+      "aligned": true,
+      "review_url": "https://jenesaispop.com/"
+    },
+    {
+      "artist": "Joshua Idehen",
+      "title": "I know you're hurting, everyone is hurting, everyone is trying, you have got to try",
+      "year": 2026,
+      "sources": "Jenesaispop",
+      "description": "Critics praise this album for taking spoken word concepts to the dance floor, infused with influences from breakbeat, neo-soul, and UK Garage for a vibrant sound.",
+      "aligned": true,
+      "review_url": "https://jenesaispop.com/discos/"
+    },
+    {
+      "artist": "Ed O'Brien",
+      "title": "Blue Morpho",
+      "year": 2026,
+      "sources": "PopMatters",
+      "description": "Radiohead's Ed O'Brien embarks on an impressive solo journey, blending poetry and progressive rock elements to create an atmospheric and exploratory sound.",
+      "aligned": true,
+      "review_url": "https://www.popmatters.com/radiohead-ed-obrien-blue-morpho-review"
+    },
+    {
+      "artist": "Charlotte Cornfield",
+      "title": "Hurts Like Hell",
+      "year": 2026,
+      "sources": "Exclaim!",
+      "description": "The Toronto singer-songwriter's sixth record is a testament to the grounding power of community, navigating life's beginnings and endings with country-infused, finger-plucked guitar and open-hearted clarity.",
+      "aligned": true,
+      "review_url": "https://exclaim.ca/music/article/exclaims_25_best_albums_of_2026_so_far"
+    },
+    {
+      "artist": "Panda Bear & Sonic Boom",
+      "title": "A ? Of WHEN",
+      "year": 2026,
+      "sources": "Stereogum",
+      "description": "This collaborative album is announced with a focus on \"real life interactions\" over streaming, promising a unique listening experience with \"Pet Sounds energy.\"",
+      "aligned": true,
+      "review_url": "https://www.stereogum.com/2337777/panda-bear-sonic-boom-a-question-of-when-new-album-announcement/news/"
+    }
+  ],
+  "footer": "8 albums recommended this week · AI powered by Gi :)"
+}

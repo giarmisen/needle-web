@@ -1,0 +1,89 @@
+{
+  "week_from": "19/04/2026",
+  "week_to": "26/04/2026",
+  "albums": [
+    {
+      "artist": "Foo Fighters",
+      "title": "Your Favorite Toy",
+      "year": 2026,
+      "sources": "The Line of Best Fit",
+      "description": "Critics note that Foo Fighters embrace a frenetic energy on this album.",
+      "aligned": false,
+      "review_url": "https://www.thelineofbestfit.com"
+    },
+    {
+      "artist": "Friko",
+      "title": "Something Worth Waiting For",
+      "year": 2026,
+      "sources": "The Line of Best Fit · PopMatters",
+      "description": "This album showcases the band's larger-than-life ambition and delivers a sound that is both harder and prettier, delighting their growing fanbase.",
+      "aligned": false,
+      "review_url": "https://www.popmatters.com"
+    },
+    {
+      "artist": "Zayn",
+      "title": "Konnakol",
+      "year": 2026,
+      "sources": "Jenesaispop",
+      "description": "Zayn's fifth album marks a return to the alternative R&B atmospheres of his solo debut.",
+      "aligned": true,
+      "review_url": "https://jenesaispop.com",
+      "spotify_url": "https://open.spotify.com/album/1gNQgz2ZDk9XNEBdJcs9zG",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02cdc5d305c537648861945f0a"
+    },
+    {
+      "artist": "Xoel López",
+      "title": "Oniria popular",
+      "year": 2026,
+      "sources": "Jenesaispop",
+      "description": "The album is praised for its beautiful melodies and arrangements that convey a sense of melancholy yet also comfort.",
+      "aligned": true,
+      "review_url": "https://jenesaispop.com",
+      "spotify_url": "https://open.spotify.com/album/4NLkFhBN3wBgqkv63NV6sH",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e0217fdf87373b84b51fbb45926"
+    },
+    {
+      "artist": "M.I.A.",
+      "title": "M.I.7",
+      "year": 2026,
+      "sources": "Jenesaispop",
+      "description": "This album explores religious music, demonstrating how aesthetic beauty can transcend personal beliefs.",
+      "aligned": true,
+      "review_url": "https://jenesaispop.com",
+      "spotify_url": "https://open.spotify.com/album/6TGoIu9hPSLt2fYgdThVKD",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e022051665e8f11a0b1f54f177c"
+    },
+    {
+      "artist": "Charlotte Cornfield",
+      "title": "Hurts Like Hell",
+      "year": 2026,
+      "sources": "Rockdelux · The Line of Best Fit",
+      "description": "The album addresses old memories with a fresh intensity, resonating like new wounds.",
+      "aligned": true,
+      "review_url": "https://www.rockdelux.com",
+      "spotify_url": "https://open.spotify.com/album/21IyvAnogGM9zfJYOShEBj",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02982c2f6e0b4c649e56901dce"
+    },
+    {
+      "artist": "The Moss",
+      "title": "Big Blue Moon",
+      "year": 2026,
+      "sources": "PopMatters",
+      "description": "The band channels the expansive energy of natural landscapes into a sharp, unyielding, and distinctive sound.",
+      "aligned": false,
+      "review_url": "https://www.popmatters.com",
+      "spotify_url": "https://open.spotify.com/album/2XMTEwKMIhUOsU92RYdSy9",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02ff4d310c16e489cb70266bf7"
+    },
+    {
+      "artist": "Nicolas Remondino",
+      "title": "Hìeratico",
+      "year": 2026,
+      "sources": "A Closer Listen",
+      "description": "On this album, Remondino treats sound as both matter and invocation, crafting a work that exists in a state of charged duality, balancing control with contrasting tendencies.",
+      "aligned": true,
+      "review_url": "https://www.aclosinglisten.com"
+    }
+  ],
+  "footer": "8 albums recommended this week · AI powered by Gi :)"
+}
