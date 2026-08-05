@@ -91,6 +91,7 @@ export default function MyNeedlePage() {
                     value={genres}
                     onChange={(e) => setGenres(e.target.value)}
                     placeholder="shoegaze, dream pop, ambient, post-punk..."
+                    maxLength={200}
                     className="mt-2 w-full border border-[#e0e0e0] px-3 py-2 text-[14px] text-[#1a1a1a] [font-family:Arial,Helvetica,sans-serif] focus:outline-none focus:border-[#1a1a1a]"
                   />
                 </label>
@@ -104,6 +105,7 @@ export default function MyNeedlePage() {
                     value={artists}
                     onChange={(e) => setArtists(e.target.value)}
                     placeholder="Grouper, Perfume Genius, Blood Orange..."
+                    maxLength={200}
                     className="mt-2 w-full border border-[#e0e0e0] px-3 py-2 text-[14px] text-[#1a1a1a] [font-family:Arial,Helvetica,sans-serif] focus:outline-none focus:border-[#1a1a1a]"
                   />
                 </label>

@@ -114,6 +114,17 @@ export async function POST(request: Request) {
       );
     }
 
+    // Sin esto, cualquiera podia mandar strings enormes: mas coste de Gemini
+    // por peticion y sin ningun limite. 200 caracteres sobra de sobra para
+    // listar generos o artistas de referencia.
+    const MAX_FIELD_LENGTH = 200;
+    if (genres.length > MAX_FIELD_LENGTH || artists.length > MAX_FIELD_LENGTH) {
+      return NextResponse.json(
+        { error: `Genres and artists must be under ${MAX_FIELD_LENGTH} characters each.` },
+        { status: 400 }
+      );
+    }
+
     const apiKey = process.env.GEMINI_API_KEY;
     if (!apiKey) {
       return NextResponse.json(
