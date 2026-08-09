@@ -1,0 +1,91 @@
+{
+  "week_from": "02/08/2026",
+  "week_to": "09/08/2026",
+  "albums": [
+    {
+      "artist": "Ravyn Lenae",
+      "title": "Halcyon Blues",
+      "year": 2026,
+      "sources": "Metacritic 78",
+      "description": "This R&B artist's third full-length release features guest appearances and has been praised for its captivating sound.",
+      "aligned": true,
+      "review_url": "https://www.metacritic.com/music/halcyon-blues/ravyn-lenae/"
+    },
+    {
+      "artist": "Ceremony",
+      "title": "Tell Me Your Dream",
+      "year": 2026,
+      "sources": "Stereogum Album Of The Week",
+      "description": "This album is lauded as a powerful reinterpretation of the band's history, blending fiery punk anthems with genre experiments that maintain an urgent and elliptical quality.",
+      "aligned": true,
+      "review_url": "https://www.stereogum.com/2196655/album-of-the-week-ceremony-tell-me-your-dream/reviews/album-of-the-week/",
+      "spotify_url": "https://open.spotify.com/album/1kTGPhQpZfXDaqKMorgpn7",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02eca1b38e2a86aa3215e3bcdb"
+    },
+    {
+      "artist": "Margaret Glaspy",
+      "title": "I Am Both",
+      "year": 2026,
+      "sources": "PopMatters · Paste Magazine",
+      "description": "Critics praise this indie folk artist's latest as a low-key masterwork, offering observational wisdom, lilting melodies, and sharp wit through folk-rock instrumentals.",
+      "aligned": true,
+      "review_url": "https://www.popmatters.com/margaret-glaspy-i-am-both-review-2667858348.html",
+      "spotify_url": "https://open.spotify.com/album/6rpeCuF6DT4gde64T6Vdjm",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02db2a6cc2c81bc72198f3bf7c"
+    },
+    {
+      "artist": "Shaboozey",
+      "title": "The Outlaw Cherie Lee & Other Western Tales",
+      "year": 2026,
+      "sources": "PopMatters · Exclaim!",
+      "description": "Shaboozey's fourth album is an ambitious concept, combining storytelling with a distinctive country/hip-hop blend.",
+      "aligned": false,
+      "review_url": "https://www.popmatters.com/shaboozey-the-outlaw-cherie-lee-other-western-tales-review-2667858348.html",
+      "spotify_url": "https://open.spotify.com/album/6t5UZQ2C2Rt6PtBA7GPbE2",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e028bcce9108b6963f619fd254e"
+    },
+    {
+      "artist": "Ariana Grande",
+      "title": "petal",
+      "year": 2026,
+      "sources": "Exclaim! · Jenesaispop",
+      "description": "This pop release has generated discussion, with critics noting its departure from previous works and exploring its lyrical themes.",
+      "aligned": false,
+      "review_url": "https://exclaim.ca/music/article/ariana_grande_petal_wilts_under_scrutiny_album_review",
+      "spotify_url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e028baf677ee2d8dda6cc9fcbd7"
+    },
+    {
+      "artist": "Shannon Lay",
+      "title": "Past The Veil",
+      "year": 2026,
+      "sources": "KEXP",
+      "description": "This album is a mesmerizing collection of ornate, cinematic indie folk, with richly-orchestrated arrangements propelling distinct vocals.",
+      "aligned": true,
+      "review_url": "https://www.kexp.org/read/2026/8/3/new-music-reviews-83/",
+      "spotify_url": "https://open.spotify.com/album/2FHfpGt4h0KzrwWwSAD79k",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02964fbf1a498f5e688fe5d3b7"
+    },
+    {
+      "artist": "Shearwater",
+      "title": "The New World",
+      "year": 2026,
+      "sources": "KEXP",
+      "description": "Shearwater's eleventh studio album is a captivating blend of ornate, cinematic indie rock, featuring rich arrangements and dynamic vocals that create an entirely new universe.",
+      "aligned": false,
+      "review_url": "https://www.kexp.org/read/2026/8/3/new-music-reviews-83/",
+      "spotify_url": "https://open.spotify.com/album/3iclJkPCwRcI0DlTMB23Wz",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e023329aaf3098be832ee7fef71"
+    },
+    {
+      "artist": "Daddy's Boy",
+      "title": "Four Hombres",
+      "year": 2026,
+      "sources": "Stereogum",
+      "description": "This raw and intense punk album from the Chicago band delivers a feverish and passionate attack, with an overarching theme of hope in the face of worsening global conditions.",
+      "aligned": true,
+      "review_url": "https://www.stereogum.com/2196655/daddys-boy-four-hombres/new-music/"
+    }
+  ],
+  "footer": "8 albums recommended this week · AI powered by Gi :)"
+}
