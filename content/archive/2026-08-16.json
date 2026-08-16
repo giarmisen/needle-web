@@ -1,0 +1,91 @@
+{
+  "week_from": "09/08/2026",
+  "week_to": "16/08/2026",
+  "albums": [
+    {
+      "artist": "Phoebe Bridgers",
+      "title": "Lost Weekend",
+      "year": 2026,
+      "sources": "The Line of Best Fit 80 · Exclaim!",
+      "description": "Critics praise this album as a stellar study of grief, grudge, and devotion, noting its cohesive and genre-defying sound.",
+      "aligned": true,
+      "review_url": "https://exclaim.ca/music/article/lost_weekend_is_phoebe_bridgerss_odyssey_album_review",
+      "spotify_url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e0225a647ace83ba32770ab5d0f"
+    },
+    {
+      "artist": "Ravyn Lenae",
+      "title": "Blue Island",
+      "year": 2026,
+      "sources": "Metacritic 78 · Jenesaispop · Exclaim!",
+      "description": "Celebrated for its irresistible British R&B sound, this album sees Lenae confidently coming home to herself, building on previous successes with a unique twist.",
+      "aligned": true,
+      "review_url": "https://exclaim.ca/music/article/on_blue_island_ravyn_lenae_comes_home_to_herself_album_review",
+      "spotify_url": "https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e023ab7676f57b866dd4bb04805"
+    },
+    {
+      "artist": "L'Rain",
+      "title": "Fata Morgana",
+      "year": 2026,
+      "sources": "Stereogum",
+      "description": "Hailed as Stereogum's \"Album of the Week,\" this release is lauded for its innovative soundscapes and profound artistic vision.",
+      "aligned": true,
+      "review_url": "https://www.stereogum.com/2026/08/11/lrain-fata-morgana-album-of-the-week/"
+    },
+    {
+      "artist": "Nina Winder-Lind",
+      "title": "Wild Love",
+      "year": 2026,
+      "sources": "The Line of Best Fit · PopMatters",
+      "description": "Described as prophetic and a testament to life, this album is praised for its ability to connect across generations with its vibrant and vital sound.",
+      "aligned": true,
+      "review_url": "https://www.thelineofbestfit.com/albums/nina-winder-lind-wild-love-review/",
+      "spotify_url": "https://open.spotify.com/album/14lUXimueH6tfm8jOmHXWq",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02a28d36170aa533f017e43c83"
+    },
+    {
+      "artist": "FLO",
+      "title": "Therapy at the Club",
+      "year": 2026,
+      "sources": "Jenesaispop",
+      "description": "This album delivers an irresistible British R&B sound, captivating listeners with its confident and engaging tracks.",
+      "aligned": true,
+      "review_url": "https://jenesaispop.com/2026/08/12/flo-therapy-at-the-club-review/",
+      "spotify_url": "https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e022803beb3ed94503f7d1fb379"
+    },
+    {
+      "artist": "Troye Sivan",
+      "title": "She's The Best",
+      "year": 2026,
+      "sources": "Jenesaispop",
+      "description": "Critics note Sivan's willingness to take risks, resulting in a triumphant album that showcases his evolving artistry.",
+      "aligned": true,
+      "review_url": "https://jenesaispop.com/2026/08/14/troye-sivan-shes-the-best-review/"
+    },
+    {
+      "artist": "Overmono",
+      "title": "Pure Devotion",
+      "year": 2026,
+      "sources": "Jenesaispop",
+      "description": "Hailed as one of the most interesting names in new British electronic music, this album offers compelling and innovative sounds.",
+      "aligned": false,
+      "review_url": "https://jenesaispop.com/2026/08/13/overmono-pure-devotion-review/",
+      "spotify_url": "https://open.spotify.com/album/0DS9OxHBt693YOs3TDira2",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e0258e6ed619438202bb108ec6f"
+    },
+    {
+      "artist": "Dagny",
+      "title": "Dancefloor Erotica",
+      "year": 2026,
+      "sources": "Jenesaispop",
+      "description": "Awarded \"Disco de la Semana\" (Album of the Week), this release is celebrated for its infectious energy and captivating dance-pop appeal.",
+      "aligned": false,
+      "review_url": "https://jenesaispop.com/2026/08/10/dagny-dancefloor-erotica-review/",
+      "spotify_url": "https://open.spotify.com/album/7aQhFdYGBss6RCYMa7fwyp",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02de5f10fa738ab303c1ea8689"
+    }
+  ],
+  "footer": "8 albums recommended this week · AI powered by Gi :)"
+}
