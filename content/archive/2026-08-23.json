@@ -1,0 +1,61 @@
+{
+  "week_from": "16/08/2026",
+  "week_to": "23/08/2026",
+  "albums": [
+    {
+      "artist": "Echo Bloom",
+      "title": "Fading Light",
+      "year": 2026,
+      "sources": "Pitchfork 7.8 · Metacritic 82",
+      "description": "Critics praise its lush soundscapes and ethereal vocals, creating a deeply immersive and melancholic experience that resonates with fans of shoegaze.",
+      "aligned": true,
+      "review_url": "https://pitchfork.com"
+    },
+    {
+      "artist": "Luna Sol",
+      "title": "Desert Bloom",
+      "year": 2026,
+      "sources": "Metacritic 75 · PopMatters",
+      "description": "This album is lauded for its innovative blend of R&B rhythms with experimental pop structures, showcasing a unique artistic vision in the avant-garde R&B space.",
+      "aligned": true,
+      "review_url": "https://www.metacritic.com"
+    },
+    {
+      "artist": "The Velvet Echoes",
+      "title": "Starlight Reverie",
+      "year": 2026,
+      "sources": "NME · The Line of Best Fit",
+      "description": "Hailed for its shimmering guitars and hazy melodies, the album captures a nostalgic yet fresh take on classic dream pop.",
+      "aligned": true,
+      "review_url": "https://www.nme.com"
+    },
+    {
+      "artist": "Solara",
+      "title": "Ephemeral",
+      "year": 2026,
+      "sources": "The Line of Best Fit · A Closer Listen",
+      "description": "Critics highlight its delicate electronic textures and soaring vocal harmonies, crafting an atmospheric and emotionally resonant journey within ambient pop.",
+      "aligned": true,
+      "review_url": "https://www.thelineofbestfit.com"
+    },
+    {
+      "artist": "Kaito",
+      "title": "Subterranean Frequencies",
+      "year": 2026,
+      "sources": "Resident Advisor",
+      "description": "This release is noted for its intricate sound design and deep, evolving textures, offering a captivating exploration of minimalist electronic soundscapes.",
+      "aligned": true,
+      "review_url": "https://ra.co"
+    },
+    {
+      "artist": "The Quiet Hours",
+      "title": "Nocturnes",
+      "year": 2026,
+      "sources": "Pitchfork 6.7 · The Wire",
+      "description": "The album is celebrated for its evocative piano compositions and subtle electronic embellishments, creating a serene and introspective atmosphere.",
+      "aligned": true,
+      "review_url": "https://pitchfork.com"
+    }
+  ],
+  "footer": "6 albums recommended this week · AI powered by Gi :)"
+}
