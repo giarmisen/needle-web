@@ -1,0 +1,91 @@
+{
+  "week_from": "23/08/2026",
+  "week_to": "30/08/2026",
+  "albums": [
+    {
+      "artist": "Billy Strings",
+      "title": "So Much For Goodbyes",
+      "year": 2026,
+      "sources": "Metacritic 92 · The Guardian 100 · Uncut 90 · Glide Magazine 80 · Mojo 80",
+      "description": "Critics praise this bluegrass album for its starkly confessional and openly anguished songwriting, redeemed by warmth and wit, and its remarkably mature and emotive quality.",
+      "aligned": false,
+      "review_url": "https://www.metacritic.com/music/so-much-for-goodbyes/billy-strings/critic-reviews",
+      "spotify_url": "https://open.spotify.com/album/6tcLBCFSo3nmGDiYq6opGu",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02dd3c67be3db87d7945f41c9d"
+    },
+    {
+      "artist": "Le Ren",
+      "title": "Don't Be Funny Without Me",
+      "year": 2026,
+      "sources": "Exclaim!",
+      "description": "This sophomore album is celebrated for its expansive interior world, showcasing a larger-than-life quality in its songwriting and delivery.",
+      "aligned": true,
+      "review_url": "https://exclaim.ca/music/article/le_ren_dont_be_funny_without_me_album_review"
+    },
+    {
+      "artist": "Mastodon",
+      "title": "Marrow Deep",
+      "year": 2026,
+      "sources": "Metacritic 85 · Exclaim!",
+      "description": "This metal album is lauded as a triumph, featuring winding songwriting and sonic whiplash that serves as a fitting tribute and pushes the genre's boundaries.",
+      "aligned": false,
+      "review_url": "https://www.metacritic.com/music/marrow-deep/mastodon/critic-reviews",
+      "spotify_url": "https://open.spotify.com/album/0vg1J7pmgC1X7ZeGllEQGz",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02a686a9eebd27477c0c0f24fb"
+    },
+    {
+      "artist": "Beartooth",
+      "title": "Pure Ecstasy",
+      "year": 2026,
+      "sources": "PopMatters",
+      "description": "The album is noted for its blend of aggression and pop, highlighting the undeniable talent for pop songwriting while also exploring new directions in heaviness.",
+      "aligned": false,
+      "review_url": "https://www.popmatters.com/beartooth-pure-ecstasy-review-2667362846.html",
+      "spotify_url": "https://open.spotify.com/album/7LaRPSnFbhbbDVAPf6ewX3",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02ab43acd55e8ca5129c2cd0a0"
+    },
+    {
+      "artist": "Larry Goldings et al.",
+      "title": "Rhombus",
+      "year": 2026,
+      "sources": "PopMatters",
+      "description": "Critics find this jazz organ trio album strong and unusually interesting, with its repertoire inviting multiple revisits and keeping the format alive.",
+      "aligned": false,
+      "review_url": "https://www.popmatters.com/larry-goldings-rhombus-review-2667362847.html"
+    },
+    {
+      "artist": "Sarah Davachi",
+      "title": "The Will of Tongues",
+      "year": 2026,
+      "sources": "A Closer Listen · First Floor",
+      "description": "This ambitious, immersive, and enveloping work is seen as a natural successor to previous acclaimed albums, showcasing the Canadian composer's unique approach to organ-based soundscapes.",
+      "aligned": true,
+      "review_url": "https://acloserlisten.com/2026/08/28/sarah-davachi-the-will-of-tongues/",
+      "spotify_url": "https://open.spotify.com/album/2i6wgQaPrFvmBm7hZZs0fY",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02633eec77538dc204a829a0c1"
+    },
+    {
+      "artist": "Justyna Jablonska",
+      "title": "Unforeseen",
+      "year": 2026,
+      "sources": "A Closer Listen",
+      "description": "This debut solo album by the cellist is praised for its confident exploration and incorporation of multiple genres, serving as a metaphor for the immigrant experience.",
+      "aligned": true,
+      "review_url": "https://acloserlisten.com/2026/08/30/justyna-jablonska-unforeseen/",
+      "spotify_url": "https://open.spotify.com/album/2FyLlppWWsS8lbbOf8azO6",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02b932cadb9efb5b64d78d0192"
+    },
+    {
+      "artist": "Turnstile",
+      "title": "NEVER ENOUGH: VERSIONS",
+      "year": 2026,
+      "sources": "Muzikalia",
+      "description": "This reimagined album features a vibrant evolution of the band's innovative sound, blending visceral energy with accessible melodies and interesting textures through diverse collaborations.",
+      "aligned": true,
+      "review_url": "https://www.muzikalia.com/turnstile-never-enough-versions-20260824.html",
+      "spotify_url": "https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e027c5f1dac8d59db0a4b80573d"
+    }
+  ],
+  "footer": "8 albums recommended this week · AI powered by Gi :)"
+}
