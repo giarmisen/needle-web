@@ -1,0 +1,91 @@
+{
+  "week_from": "03/09/2026",
+  "week_to": "10/09/2026",
+  "albums": [
+    {
+      "artist": "Sova",
+      "title": "Alight!",
+      "year": 2026,
+      "sources": "Talkhouse",
+      "description": "This album is praised for its spontaneous and alive feel, showcasing strong performances and a rich room sound from the pianist/composer.",
+      "aligned": true,
+      "review_url": "https://www.talkhouse.com/",
+      "spotify_url": "https://open.spotify.com/album/7HR0XTJ4B9LW8KhTexTAHu",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e026e0f129e7dfdcc019d985cae"
+    },
+    {
+      "artist": "B:A:N:S Band",
+      "title": "foams & mesh",
+      "year": 2026,
+      "sources": "The Free Jazz Collective",
+      "description": "Critics highlight this album's unique dynamic and sonic world, featuring improvisational rigor and varied, aleatoric moments.",
+      "aligned": true,
+      "review_url": "https://www.freejazzblog.org/"
+    },
+    {
+      "artist": "walakos",
+      "title": "baseline distortion",
+      "year": 2026,
+      "sources": "A Closer Listen",
+      "description": "Despite its title, this electronic album is noted for its remarkably lucid production, allowing subtle changes in timbre and rhythm to register clearly.",
+      "aligned": true,
+      "review_url": "https://acloserlisten.com/",
+      "spotify_url": "https://open.spotify.com/album/4dcP1IkEnInzI4vzvxEgC7",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02ab8d760a4dc45985f4f419dd"
+    },
+    {
+      "artist": "Aaron Taylor",
+      "title": "Tell Me of Love!",
+      "year": 2026,
+      "sources": "Rated R&B",
+      "description": "Aaron Taylor's new album thoughtfully explores the multifaceted meaning of love, presented with a fresh R&B perspective.",
+      "aligned": true,
+      "review_url": "https://ratedrnb.com/",
+      "spotify_url": "https://open.spotify.com/album/0IwaPeZeRMSlBVzb4vdEaR",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02f52a4976f72c291ecc0cdc5f"
+    },
+    {
+      "artist": "encode",
+      "title": "wha+arewe",
+      "year": 2026,
+      "sources": "Wednesday MidDay Medley",
+      "description": "This independent Pop/R&B production from a KC-based musician with an orchestral background marks a new and distinctive sound.",
+      "aligned": true,
+      "review_url": "https://www.kkfi.org/program-pages/wednesday-midday-medley/reviews/",
+      "spotify_url": "https://open.spotify.com/album/7Lvx5WNIOkb499O9vxlusw",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02652bec2b2f47658df3d87945"
+    },
+    {
+      "artist": "Chat Pile",
+      "title": "Who Loves the Sun",
+      "year": 2026,
+      "sources": "Paste Magazine",
+      "description": "The Oklahoma City sludge-metal band's third album confronts capitalism with blood-curdling screams, nasty basslines, and pulverizing drums.",
+      "aligned": false,
+      "review_url": "https://www.pastemagazine.com/music",
+      "spotify_url": "https://open.spotify.com/album/2ITnf8HOokOJxjv483Dszk",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02ab1229a45362b56b4d06a405"
+    },
+    {
+      "artist": "Marty Ehrlich",
+      "title": "Open Air: The Complete Saxophone Quartet Compositions of Julius Hemphill",
+      "year": 2026,
+      "sources": "The Free Jazz Collective",
+      "description": "This album is hailed as an extraordinary and authentic tribute to Julius Hemphill's hard, bluesy, and culturally real compositions.",
+      "aligned": false,
+      "review_url": "https://www.freejazzblog.org/",
+      "spotify_url": "https://open.spotify.com/album/6XtBrkXf2KSzIaMjX57Cbn",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02a5439b9d9bceae47a008e2f8"
+    },
+    {
+      "artist": "Worldsucks",
+      "title": "Scorn for the U.S.A.",
+      "year": 2026,
+      "sources": "Hudson Valley One",
+      "description": "Worldsucks delivers a new album of riff-heavy, politically charged rock, channeling frustration into its powerful sound.",
+      "aligned": false,
+      "review_url": "https://hudsonvalleyone.com/"
+    }
+  ],
+  "footer": "8 albums recommended this week · AI powered by Gi :)"
+}
