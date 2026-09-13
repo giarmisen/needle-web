@@ -1,0 +1,93 @@
+{
+  "week_from": "06/09/2026",
+  "week_to": "13/09/2026",
+  "albums": [
+    {
+      "artist": "This Is Lorelei",
+      "title": "The Singer in My Band",
+      "year": 2026,
+      "sources": "Metacritic 81 · Exclaim! · The Line of Best Fit",
+      "description": "Critics praise this album for its intricate blend of dream-pop and indie rock, showcasing a unique lyrical depth and multi-instrumental artistry.",
+      "aligned": true,
+      "review_url": "https://www.metacritic.com/music/the-singer-in-my-band/this-is-lorelei/",
+      "spotify_url": "https://open.spotify.com/album/24cxezS5U9YTFapgKpYG16",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02c456875e0df6d8195f4b5545"
+    },
+    {
+      "artist": "The Tubs",
+      "title": "Hard Life",
+      "year": 2026,
+      "sources": "Metacritic 89 · The Line of Best Fit",
+      "description": "This indie rock release is lauded for its energetic and melodic approach, featuring contributions from notable figures in the indie scene that enrich its dynamic sound.",
+      "aligned": true,
+      "review_url": "https://www.metacritic.com/music/hard-life/the-tubs/",
+      "spotify_url": "https://open.spotify.com/album/4cFFdzzZUjj7pmx8VegJbM",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e0233ab6667f81024d9bfe75d12"
+    },
+    {
+      "artist": "Haruomi Hosono",
+      "title": "Yours Sincerely",
+      "year": 2026,
+      "sources": "Metacritic 83 · The Line of Best Fit · Exclaim!",
+      "description": "The Japanese composer's latest solo work is celebrated for its self-produced, atmospheric soundscapes, marking a significant return with new music that is both introspective and innovative.",
+      "aligned": true,
+      "review_url": "https://www.metacritic.com/music/yours-sincerely/haruomi-hosono/",
+      "spotify_url": "https://open.spotify.com/album/2DtAm3khT9GqoYOJCM9vas",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e023af48613b19da7eb6758d587"
+    },
+    {
+      "artist": "Lido Pimienta",
+      "title": "Caribenya",
+      "year": 2026,
+      "sources": "Rockdelux",
+      "description": "This album is recognized for its unique fusion of electronic elements with traditional Latin American sounds, delivered with Lido Pimienta's distinctive vocal style and artistic vision.",
+      "aligned": true,
+      "review_url": "https://www.rockdelux.com/discos/lido-pimienta-caribenya",
+      "spotify_url": "https://open.spotify.com/album/18zt6aSGqSAMfJTQuJL3Sl",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02e41d589b756dc4f82bfd4fa3"
+    },
+    {
+      "artist": "ADÉLA",
+      "title": "PRIMA",
+      "year": 2026,
+      "sources": "Jenesaispop",
+      "description": "ADÉLA's album is noted for its playful yet sophisticated exploration of pop history, combining bold artistic statements with compelling electronic production.",
+      "aligned": true,
+      "review_url": "https://jenesaispop.com/2026/09/07/adela-prima/",
+      "spotify_url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02ac9d5d5263e9f03802d6864c"
+    },
+    {
+      "artist": "Westside Cowboy",
+      "title": "It Goes On",
+      "year": 2026,
+      "sources": "Jenesaispop",
+      "description": "This Manchester quartet's album is highlighted for its potential in the indie rock scene, delivering a sound that critics find fresh and engaging.",
+      "aligned": true,
+      "review_url": "https://jenesaispop.com/2026/09/08/westside-cowboy-it-goes-on/",
+      "spotify_url": "https://open.spotify.com/album/3dWKCKeiWtxjDNPTbGCQTO",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e0259b4c22ba76349483371d480"
+    },
+    {
+      "artist": "corto.alto",
+      "title": "SOME SMALL FORTUNE",
+      "year": 2026,
+      "sources": "KEXP",
+      "description": "Critics commend this album as an expansive journey through contemporary jazz fusion, blending hip-hop and neo-classical elements with mesmerizing expressions and kaleidoscopic arrangements.",
+      "aligned": true,
+      "review_url": "https://www.kexp.org/read/2026/9/8/new-music-reviews-98/",
+      "spotify_url": "https://open.spotify.com/album/7ego2G7DvXCvUq7k4xg60F",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02d3e44971cf627ba764147fd9"
+    },
+    {
+      "artist": "Space Afrika",
+      "title": "Quiet Storm",
+      "year": 2026,
+      "sources": "The Wire",
+      "description": "The Manchester-Berlin duo's latest offering is praised for remapping connections between club culture and 1970s underground radio networks, creating a unique blend of ambient, triphop, and techno.",
+      "aligned": true,
+      "review_url": "https://www.thewire.co.uk/issues/511"
+    }
+  ],
+  "footer": "8 albums recommended this week · AI powered by Gi :)"
+}
