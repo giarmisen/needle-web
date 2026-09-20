@@ -1,0 +1,95 @@
+{
+  "week_from": "13/09/2026",
+  "week_to": "20/09/2026",
+  "albums": [
+    {
+      "artist": "Beck",
+      "title": "Ride Lonesome",
+      "year": 2026,
+      "sources": "Metacritic 87 · Exclaim! · Jenesaispop · Les Inrockuptibles",
+      "description": "Critics praise this album for its return to atmospheric sounds and melancholic ambiance, reminiscent of his earlier acclaimed works.",
+      "aligned": true,
+      "review_url": "https://www.metacritic.com/music/ride-lonesome/beck",
+      "spotify_url": "https://open.spotify.com/album/6gP36h0Cv8vTiBmdbHO3qI",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e028e1f6678773ab073197f4b70"
+    },
+    {
+      "artist": "Carly Rae Jepsen",
+      "title": "Day and Night",
+      "year": 2026,
+      "sources": "Metacritic 83 · Exclaim! · Jenesaispop",
+      "description": "This double album is celebrated for its duality, offering organic, raw tracks with 70s-inspired psychedelic pop elements on 'Day' and sleek, synth-driven dance pop on 'Night'.",
+      "aligned": false,
+      "review_url": "https://www.metacritic.com/music/day-and-night/carly-rae-jepsen",
+      "spotify_url": "https://open.spotify.com/album/1XWFzAYlF1ihMFPU4a9YQg",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02b95df8ae25f8c265e37793de"
+    },
+    {
+      "artist": "beabadoobee",
+      "title": "Pylon",
+      "year": 2026,
+      "sources": "Metacritic 78 · Exclaim! · The Line of Best Fit",
+      "description": "The artist's latest full-length effort sees her evolving sound, blending her quirky alt-rock roots with a slicker, more adult approach.",
+      "aligned": false,
+      "review_url": "https://www.metacritic.com/music/pylon/beabadoobee",
+      "spotify_url": "https://open.spotify.com/album/5CUNbeziis6Q3LWXoqxkDf",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e0289ed6c21d82504282c2f6ad6"
+    },
+    {
+      "artist": "Actress",
+      "title": "Radical Frame",
+      "year": 2026,
+      "sources": "Metacritic 77",
+      "description": "The British electronic producer's new album features guest appearances and continues his distinctive, experimental sound.",
+      "aligned": false,
+      "review_url": "https://www.metacritic.com/music/radical-frame/actress",
+      "spotify_url": "https://open.spotify.com/album/4bvfwACExnuV8cVqmTvneG",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02f6f7b357a1dcf5b14298aa0c"
+    },
+    {
+      "artist": "Slow Pulp",
+      "title": "Melodie",
+      "year": 2026,
+      "sources": "Metacritic 76 · Exclaim! · The Line of Best Fit",
+      "description": "This indie rock release is noted for its slow-burn appeal and confidently showcases a band coming into their own.",
+      "aligned": false,
+      "review_url": "https://www.metacritic.com/music/melodie/slow-pulp",
+      "spotify_url": "https://open.spotify.com/album/3pCuWK1YLBdu96F3wIGqjy",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e024f63da4aecaa56fbb8efc881"
+    },
+    {
+      "artist": "Neil Young And The Chrome Hearts",
+      "title": "Second Song",
+      "year": 2026,
+      "sources": "Metacritic 75 · Exclaim!",
+      "description": "This album delves into the core of the artist, featuring a mix of new compositions and unreleased songs from the 1960s.",
+      "aligned": false,
+      "review_url": "https://www.metacritic.com/music/second-song/neil-young-and-the-chrome-hearts",
+      "spotify_url": "https://open.spotify.com/album/7BqXCKZb6jZbilu5CyO9k3",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02a2027ff975d1a5d394b604e4"
+    },
+    {
+      "artist": "Erykah Badu & The Alchemist",
+      "title": "Before the World Blows",
+      "year": 2026,
+      "sources": "Exclaim!",
+      "description": "This stellar collaboration delivers a riveting, laser-focused performance from Badu over loping, boom-bap beats, incorporating dreamy, 90s-inflected tracks.",
+      "aligned": true,
+      "review_url": "https://exclaim.ca/music/article/erykah_badu_saved_the_hits_for_the_next_lifetime_in_toronto",
+      "spotify_url": "https://open.spotify.com/album/6eKe5wqXAHA1LLnIwGuaSI",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e0209f94e5a4dce3beb3c27c4f1"
+    },
+    {
+      "artist": "Emma Ruth Rundle",
+      "title": "These Killing Times",
+      "year": 2026,
+      "sources": "PopMatters",
+      "description": "Hailed as a brilliant and career-defining set, this album is seen as the culmination of the artist's long-held aspirations and marks the actualization of a signature sound.",
+      "aligned": true,
+      "review_url": "https://www.popmatters.com/emma-ruth-rundle-these-killing-times-review",
+      "spotify_url": "https://open.spotify.com/album/2qTYkMZ8qtOcyEgD5LTawC",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02915da323f2573bacfa9fb284"
+    }
+  ],
+  "footer": "8 albums recommended this week · AI powered by Gi :)"
+}
