@@ -1,0 +1,95 @@
+{
+  "week_from": "20/09/2026",
+  "week_to": "27/09/2026",
+  "albums": [
+    {
+      "artist": "Protomartyr",
+      "title": "Hotel Usona",
+      "year": 2026,
+      "sources": "Metacritic 90",
+      "description": "Critics praise this album for its conceptual depth, exploring the idea of the U.S. as a hotel, combined with the band's signature intense post-punk sound.",
+      "aligned": true,
+      "review_url": "https://www.metacritic.com/music/hotel-usona/protomartyr/",
+      "spotify_url": "https://open.spotify.com/album/1VFSC60Y9e1DxIvSvZdane",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02ea6e230375039568a2c13000"
+    },
+    {
+      "artist": "Gilla Band",
+      "title": "Pugnello",
+      "year": 2026,
+      "sources": "Metacritic 87 · Stereogum Album of the Week",
+      "description": "The Irish noise rock band delivers a self-produced album that critics laud for its raw energy and distinctive, abrasive sound.",
+      "aligned": true,
+      "review_url": "https://www.metacritic.com/music/pugnello/gilla-band/",
+      "spotify_url": "https://open.spotify.com/album/5pTvVhdMVV24CQep4GA38F",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e029816a8a78822e098f7f4458e"
+    },
+    {
+      "artist": "Julia Jacklin",
+      "title": "The Gem",
+      "year": 2026,
+      "sources": "Metacritic 81",
+      "description": "The Australian singer-songwriter's latest is celebrated for its introspective lyrics and a sound that blends indie rock with a touch of jangle pop.",
+      "aligned": true,
+      "review_url": "https://www.metacritic.com/music/the-gem/julia-jacklin/",
+      "spotify_url": "https://open.spotify.com/album/1nkNzpjmKmAOypmfp7a8Ic",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02b69eeace0fbd0ccf24b4fb21"
+    },
+    {
+      "artist": "Blondshell",
+      "title": "Violins",
+      "year": 2026,
+      "sources": "Metacritic 81",
+      "description": "This indie singer-songwriter's third album is noted for its powerful, raw emotionality and expertly crafted indie rock sound.",
+      "aligned": true,
+      "review_url": "https://www.metacritic.com/music/violins/blondshell/",
+      "spotify_url": "https://open.spotify.com/album/2dkOtTHYlj2DzIgLaf6FGy",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02836c66cf24753c5df45db449"
+    },
+    {
+      "artist": "Oren Ambarchi",
+      "title": "Cooked",
+      "year": 2026,
+      "sources": "Metacritic 81",
+      "description": "Ambarchi's latest solo work is recognized for its meticulously constructed, expansive experimental soundscapes, featuring a host of international collaborators.",
+      "aligned": true,
+      "review_url": "https://www.metacritic.com/music/cooked/oren-ambarchi/",
+      "spotify_url": "https://open.spotify.com/album/0rqyaE19Aj47roRdxNDixw",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02588c5c508e7b1a591ff66ca4"
+    },
+    {
+      "artist": "Dabda",
+      "title": "On(百)",
+      "year": 2026,
+      "sources": "KEXP",
+      "description": "The South Korean quartet's sophomore effort is lauded for its exquisite fusion of math rock, dream pop, and psychedelia, driven by intricate guitars and dreamy vocals.",
+      "aligned": true,
+      "review_url": "https://www.kexp.org/read/2026/9/21/new-music-reviews-921/",
+      "spotify_url": "https://open.spotify.com/album/6ivPxyvAS74hBHROw2omw3",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02801c01b84206424da631b607"
+    },
+    {
+      "artist": "ACTORS",
+      "title": "Our Love Will Live Forever",
+      "year": 2026,
+      "sources": "KEXP",
+      "description": "This Vancouver outfit delivers a potent blend of goth-tinged darkwave and synth-heavy post-punk, featuring anthemic hooks and brooding atmospherics.",
+      "aligned": true,
+      "review_url": "https://www.kexp.org/read/2026/9/21/new-music-reviews-921/",
+      "spotify_url": "https://open.spotify.com/album/216BKfKyVwhgWUEmV2tnha",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02884d8f2329949236d8607453"
+    },
+    {
+      "artist": "Leon Bridges",
+      "title": "Happiness Anytime",
+      "year": 2026,
+      "sources": "Metacritic 74",
+      "description": "Leon Bridges' latest album is praised for its soulful blend of R&B, Afrobeat, Brazilian music, and disco influences, creating a vibrant and uplifting sound.",
+      "aligned": false,
+      "review_url": "https://www.metacritic.com/music/happiness-anytime/leon-bridges/",
+      "spotify_url": "https://open.spotify.com/album/7dn6XRgEhJV7DRnupARxs9",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e0266797612d4ee85ebf1602804"
+    }
+  ],
+  "footer": "8 albums recommended this week · AI powered by Gi :)"
+}
