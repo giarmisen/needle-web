@@ -1,0 +1,91 @@
+{
+  "week_from": "27/09/2026",
+  "week_to": "04/10/2026",
+  "albums": [
+    {
+      "artist": "Tinashe",
+      "title": "Popstar",
+      "year": 2026,
+      "sources": "Metacritic 90 · The Line of Best Fit · Jenesaispop",
+      "description": "Critics laud this album for its sleek production and Tinashe's vulnerable yet strong vocal performances, pushing the boundaries of contemporary R&B and art pop with compelling narratives.",
+      "aligned": true,
+      "review_url": "https://www.thelineofbestfit.com",
+      "spotify_url": "https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02f8dc54881b35310061266cdf"
+    },
+    {
+      "artist": "Wishy",
+      "title": "Nature's Pill",
+      "year": 2026,
+      "sources": "Metacritic 84 · Exclaim.ca",
+      "description": "This indie rock sophomore album is praised for its heartfelt exploration of lovesickness, delivered with a sound that charts a jagged yet melodically rich course.",
+      "aligned": true,
+      "review_url": "https://exclaim.ca/music/article/wishys_natures_pill_charts_the_jagged_course_of_lovesickness"
+    },
+    {
+      "artist": "Julia Jacklin",
+      "title": "The Gem",
+      "year": 2026,
+      "sources": "Metacritic 81 · KEXP · Jenesaispop",
+      "description": "Hailed for its delicate vocal stretches and enchanting yodels, this album showcases Jacklin's ability to convey deep emotions through intimate lyricism and captivating melodies.",
+      "aligned": true,
+      "review_url": "https://www.kexp.org/read/2026/9/28/new-music-reviews-928/",
+      "spotify_url": "https://open.spotify.com/album/1nkNzpjmKmAOypmfp7a8Ic",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02b69eeace0fbd0ccf24b4fb21"
+    },
+    {
+      "artist": "Blondshell",
+      "title": "Violins",
+      "year": 2026,
+      "sources": "Metacritic 80 · KEXP",
+      "description": "Critics celebrate this album for its raw, approachable edge, blending grunge-inflected rockers with tender ballads, and showcasing evocative vocals and intimate lyricism.",
+      "aligned": true,
+      "review_url": "https://www.kexp.org/read/2026/9/28/new-music-reviews-928/",
+      "spotify_url": "https://open.spotify.com/album/6ahtjSXlZpJsOxSOucSuRg",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02e992eda3bc64b59979db7ca4"
+    },
+    {
+      "artist": "Absolutely Yours",
+      "title": "Desire Path",
+      "year": 2026,
+      "sources": "The Line of Best Fit",
+      "description": "This album is lauded for its mellifluous dream-pop sound, offering unexpected beauty and consolation through its ethereal and captivating compositions.",
+      "aligned": true,
+      "review_url": "https://www.thelineofbestfit.com"
+    },
+    {
+      "artist": "DIIV",
+      "title": "Trillions",
+      "year": 2026,
+      "sources": "Exclaim.ca · Stereogum",
+      "description": "Praised as an ideal mashup of shoegaze and experimental production, this album delivers a sound that is both familiar and refreshingly innovative.",
+      "aligned": true,
+      "review_url": "https://exclaim.ca/music/article/trillions_is_the_ideal_mashup_of_diiv_and_a_g_cook",
+      "spotify_url": "https://open.spotify.com/album/3kiUaXYBALEztZZ6ujxKGw",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02e514ecf5d8d47466409cc16a"
+    },
+    {
+      "artist": "Carmen Villain",
+      "title": "Memoria",
+      "year": 2026,
+      "sources": "Resident Advisor",
+      "description": "This album marks a striking vibe shift, offering dark and dubby ambient soundscapes that trade lush palettes for shades of monochrome, drawing listeners into profound sonic depths.",
+      "aligned": true,
+      "review_url": "https://ra.co",
+      "spotify_url": "https://open.spotify.com/album/3ft2ciSLYU5tmxZGDVuBv3",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e026f744a6d325a6d35dfe8fd28"
+    },
+    {
+      "artist": "Siavash Amini & Eugene Thacker",
+      "title": "Songs for Sad Poets Vol. III",
+      "year": 2026,
+      "sources": "A Closer Listen",
+      "description": "Critics find this drone and ambient album to be a profound experience, bursting with black silences that transform into flashes of music, creating a deeply contemplative atmosphere.",
+      "aligned": true,
+      "review_url": "https://acloserlisten.com",
+      "spotify_url": "https://open.spotify.com/album/7iLOGmvw49UOoNZnhunm49",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e0289e9a25ba6a9c65cacd41e37"
+    }
+  ],
+  "footer": "8 albums recommended this week · AI powered by Gi :)"
+}
