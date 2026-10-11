@@ -1,0 +1,89 @@
+{
+  "week_from": "04/10/2026",
+  "week_to": "11/10/2026",
+  "albums": [
+    {
+      "artist": "Cameron Winter",
+      "title": "Eternal (Live) [Box Set]",
+      "year": 2026,
+      "sources": "Metacritic 89 · The Line of Best Fit · Stereogum Album Of The Week",
+      "description": "Critics highly praise this live album, recorded at Carnegie Hall, for its concentrated delivery of Cameron Winter's folk, soul, and neo-classical artistry, capturing an intense and celebrated performance.",
+      "aligned": true,
+      "review_url": "https://www.metacritic.com/music/eternal-live-box-set/cameron-winter/critic-reviews/"
+    },
+    {
+      "artist": "Jess Williamson",
+      "title": "A Mile South of Heaven",
+      "year": 2026,
+      "sources": "The Line of Best Fit",
+      "description": "This album is lauded for its poignant songwriting and evocative soundscapes, solidifying Williamson's place as a compelling singer-songwriter.",
+      "aligned": true,
+      "review_url": "https://www.thelineofbestfit.com/albums/",
+      "spotify_url": "https://open.spotify.com/album/5gtnnY39j0QRzGXqAVJbd7",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e0216554b313159ddc71db1bdc1"
+    },
+    {
+      "artist": "Rocketship",
+      "title": "Hurt Feelings",
+      "year": 2026,
+      "sources": "Stereogum",
+      "description": "This new album, announced with a new track, is a highly anticipated release from the indie pop/shoegaze band.",
+      "aligned": true,
+      "review_url": "https://www.stereogum.com/new-music/"
+    },
+    {
+      "artist": "Grimes",
+      "title": "Psy Opera",
+      "year": 2026,
+      "sources": "Stereogum",
+      "description": "Grimes' new AI-inspired album, featuring the track 'Accelerando,' is a notable release pushing the boundaries of art pop and electronic music.",
+      "aligned": true,
+      "review_url": "https://www.stereogum.com/new-music/"
+    },
+    {
+      "artist": "Ibibio Sound Machine",
+      "title": "Chopping Mountain",
+      "year": 2026,
+      "sources": "PopMatters",
+      "description": "The album refines their signature sound, adding nuanced emotional dimensions to their exceptional dance-oriented music.",
+      "aligned": false,
+      "review_url": "https://www.popmatters.com/music/reviews",
+      "spotify_url": "https://open.spotify.com/album/5T0nX6NVdH0CAtRJuigzLf",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e028377ac5fbafebad9549413c8"
+    },
+    {
+      "artist": "Greg Freeman",
+      "title": "All Set The Bone",
+      "year": 2026,
+      "sources": "PopMatters · KEXP",
+      "description": "An intense and stylistically varied album, it showcases rock-forward alt-country with lasting appeal, hailed as a potential album of the year contender.",
+      "aligned": false,
+      "review_url": "https://www.popmatters.com/music/reviews",
+      "spotify_url": "https://open.spotify.com/album/2uTMERh6Ta40fBW2aKTjtQ",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e023c5aefb7b624d86b8bf0cd4f"
+    },
+    {
+      "artist": "Fat Dog",
+      "title": "Cancel Me (I'm Tired)",
+      "year": 2026,
+      "sources": "KEXP",
+      "description": "The sophomore album from this dance-punk outfit explores deeper electronic territories while maintaining urgency and intensity, with more melody and hooks.",
+      "aligned": false,
+      "review_url": "https://www.kexp.org/read/album-reviews/",
+      "spotify_url": "https://open.spotify.com/album/74vQ5qdsnCnKnTS9Xmv8il",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02e611c4e324d24ab832801826"
+    },
+    {
+      "artist": "Clutter",
+      "title": "Sugar Rush",
+      "year": 2026,
+      "sources": "The Line of Best Fit",
+      "description": "This album is noted for its fresh sound, offering a compelling new release from the artist.",
+      "aligned": false,
+      "review_url": "https://www.thelineofbestfit.com/albums/",
+      "spotify_url": "https://open.spotify.com/album/5VzKsz1G19SNoEqMAG0eJA",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02ddd1c8cba42663c42d9d66b6"
+    }
+  ],
+  "footer": "8 albums recommended this week · AI powered by Gi :)"
+}
