@@ -1,0 +1,95 @@
+{
+  "week_from": "11/10/2026",
+  "week_to": "18/10/2026",
+  "albums": [
+    {
+      "artist": "Max Richter",
+      "title": "While the Flood Rages",
+      "year": 2026,
+      "sources": "The Line of Best Fit 8/10",
+      "description": "The album masterfully blends orchestral and electronic elements, creating a dramatic structure that explores themes of environmental optimism and the potential for both creativity and destruction.",
+      "aligned": true,
+      "review_url": "https://www.thelineofbestfit.com",
+      "spotify_url": "https://open.spotify.com/album/5sZ0QkaVO3XjE41k8EuPc0",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e0201993011e01faa10e6a3446f"
+    },
+    {
+      "artist": "Fontaines D.C.",
+      "title": "Dopamine Chamber",
+      "year": 2026,
+      "sources": "Uncut 7/10",
+      "description": "This commanding fifth album sees the band trade guitars for icy synths, delivering brooding atmospherics and poignant lyrics that confront 21st-century despair and digital dependency.",
+      "aligned": true,
+      "review_url": "https://www.uncut.co.uk",
+      "spotify_url": "https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02a01e49054c2135f979e06de0"
+    },
+    {
+      "artist": "Rachel Chinouriri",
+      "title": "I think I spoke too soon",
+      "year": 2026,
+      "sources": "The Line of Best Fit 8/10 · OTOTOY Positive",
+      "description": "Chinouriri's second album offers a consistent palette of synth-pop and pop-rock with elements of dissonance, featuring breathy, siren-like vocals that evoke fading memories and the emotional chaos of a night out.",
+      "aligned": true,
+      "review_url": "https://www.thelineofbestfit.com",
+      "spotify_url": "https://open.spotify.com/album/354hclDfb4GX3gIXwYknTL",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02b68a7b6622190ee15c0b7873"
+    },
+    {
+      "artist": "Dummy",
+      "title": "do you love the color of the sky?",
+      "year": 2026,
+      "sources": "The Line of Best Fit 10/10 · Metacritic 87",
+      "description": "An extremely endearing album, it creates a softly-lit, pastel-hued otherland that is easy to get lost in, blending retrofuturistic and escape fantasy elements.",
+      "aligned": true,
+      "review_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbBa47Faek1DXR5XjPy_HilToVDiRL2cnfh1MJeP_86Ar67PzYtCGKJki7f93uI0PrTtDKrLAWFKM-0Px3ctZssQd28Wty4KWbO1q7Sf3Q_kTzXoR_KdHTk86AgR__Outnzp4tRLBxnrODCl-TRd7WAE9tUGDMPrzllJsCd7cyglLu8dcmsw==",
+      "spotify_url": "https://open.spotify.com/album/4oFyh9SJqMDWb4RRr4Ix9X",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02097c9936af7f5765dd1665c6"
+    },
+    {
+      "artist": "@ (AT)",
+      "title": "Autosmile",
+      "year": 2026,
+      "sources": "The Line of Best Fit 7/10 · Exclaim! Positive · Metacritic 83",
+      "description": "This album is noted for its unique 'alien folk' sound, showcasing a blend of electronic and experimental elements that critics suggest hints at the artist's potential for greatness.",
+      "aligned": true,
+      "review_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1_kNfnFoGRB-EyfIlrquRd-XptnKPH2mEmgGQ_n-sO9cqHEZK6T1Hg4bVDVc8ieIc_jsg6IywBqP8QHgX3MoJKBKZ4Cxg9_Ub9Vp-GiSBBy44pq2nGz86pcEqFhD5jimGy3akgudOzh5u8X2VBpg4fOrX1d5xrh746nfsBF9Ymbo=",
+      "spotify_url": "https://open.spotify.com/album/53a19c7TkUcgvZ1lnPLQCr",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e0293c812017763535bb202b703"
+    },
+    {
+      "artist": "Brandon Locher",
+      "title": "Rahu Ketu",
+      "year": 2026,
+      "sources": "PopMatters Positive",
+      "description": "Brandon Locher's latest work is a thrilling journey into strange musical worlds, with critics praising his unique and eclectic approach to sound creation.",
+      "aligned": true,
+      "review_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHH5yt4fySjXnK4TJQF5Crg9xEz-peChdRFaGclwYG80vKwVtR699NuHUDwsThz6QUqaag4ONYGzc23VP9uxpyBuiwg4k-g3qG-d9VyCV1kBTu2APyutabZkS9-WGETT2j7Z8ht2GCV6jcZAGW4EA==",
+      "spotify_url": "https://open.spotify.com/album/5HInPfEUWo3oRrHGZRAamR",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e028b13351e45dd18c2de5a2b04"
+    },
+    {
+      "artist": "OLIVE OIL",
+      "title": "VITAMIN O",
+      "year": 2026,
+      "sources": "OTOTOY Positive",
+      "description": "The seventh album from OLIVE OIL delivers technical beats and rhythms that create a sense of exhilaration, blending jazz-infused tracks with comfortable grooves and sound collages.",
+      "aligned": true,
+      "review_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJqkiyR8gmHxjFJLdCaAhhHJMTZm4xEKf5URuaJCTxxj5ocwPGMXvSjX1c5Rl27pbEqY6dTtkAIUkoC2QBdULIzs2jzLvBR8YYPTUV0jyJXjh2uYk3V5vz25xtmfUjoIY00rGLoLmhWTFqdWU=",
+      "spotify_url": "https://open.spotify.com/album/0w6B0IxqFtFX2sH1FGEzjr",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e0297a52908fb858697ac524447"
+    },
+    {
+      "artist": "Girl Ultra",
+      "title": "RRRomeo",
+      "year": 2026,
+      "sources": "PopMatters Positive",
+      "description": "Girl Ultra crafts sensual electrofunk with strong shades of new wave and disco, resulting in an innovative and undeniably catchy pop record.",
+      "aligned": true,
+      "review_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxDHxFEGWr8US4UykFz41Su_HIULXyGnM8JHNRr0yzW5qjViLNyJMUZxW1pzVDzbFS_uq9Mj9iRmp1vIeBNhvm_SHHn_XXZwiyF10FpoaoMIbR5ErRC6h30sWtyKT9yxK1e9yqS2L0gzyhIg==",
+      "spotify_url": "https://open.spotify.com/album/2tKRKPfHSnY9gXUbO7dO2F",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e0254e6a5a0a43dc7b283f2ca45"
+    }
+  ],
+  "footer": "8 albums recommended this week · AI powered by Gi :)"
+}
