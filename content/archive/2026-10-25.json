@@ -1,0 +1,80 @@
+{
+  "week_from": "18/10/2026",
+  "week_to": "25/10/2026",
+  "albums": [
+    {
+      "artist": "The Avalanches",
+      "title": "No Bad Memories",
+      "year": 2026,
+      "sources": "Metacritic 83 · Pitchfork 8.2",
+      "description": "This album showcases the group's most dynamic and intricate collage work in years, blending eclectic samples into catchy, joyous, and utterly absorbing compositions that continue to surprise critics.",
+      "aligned": true,
+      "review_url": "https://www.metacritic.com/music/no-bad-memories/the-avalanches/critic-reviews/",
+      "spotify_url": "https://open.spotify.com/album/3De7Ues320SIjGCaz5b6fX",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e024d100df0be7285a2f1176c7a"
+    },
+    {
+      "artist": "Fontaines D.C.",
+      "title": "Dopamine Chamber",
+      "year": 2026,
+      "sources": "Metacritic 85",
+      "description": "The Irish post-punk heroes deliver a moody and dreamy fifth album, expanding their sonic palette with electronic elements and bold explorations that build on their previous work.",
+      "aligned": true,
+      "review_url": "https://www.metacritic.com/music/dopamine-chamber/fontaines-dc/critic-reviews/",
+      "spotify_url": "https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02a01e49054c2135f979e06de0"
+    },
+    {
+      "artist": "Moses Boyd",
+      "title": "Songs for Sinners",
+      "year": 2026,
+      "sources": "Treble",
+      "description": "This album radiates optimism, infusing gospel tropes with London's rich underground culture, featuring heavy funk and R&B influences alongside smoky vocals and vibrant beats.",
+      "aligned": true,
+      "review_url": "https://www.treblezine.com/moses-boyd-songs-for-sinners-album-review/"
+    },
+    {
+      "artist": "Charlie Parr",
+      "title": "Rooming House",
+      "year": 2026,
+      "sources": "Metacritic 92",
+      "description": "A concept album that masterfully juxtaposes economic insecurity and community, featuring sparse arrangements that highlight Parr's bluesy fretwork and world-weary, yet often lighthearted, storytelling.",
+      "aligned": true,
+      "review_url": "https://www.metacritic.com/music/rooming-house/charlie-parr/critic-reviews/",
+      "spotify_url": "https://open.spotify.com/album/4qLawYZv2AIgbyHqshltgb",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02af711afde5479c5c36c68af1"
+    },
+    {
+      "artist": "Michael Kiwanuka",
+      "title": "Fudge",
+      "year": 2026,
+      "sources": "Les Inrockuptibles · Mojo",
+      "description": "Often compared to Bill Withers, Kiwanuka's latest offers an intimate R&B sound with sharp songwriting and celestial arrangements, hailed as his most personal statement yet.",
+      "aligned": true,
+      "review_url": "https://www.lesinrocks.com/musique/philippe-katerine-michael-kiwanuka-la-feve-voici-les-5-albums-de-la-semaine-2026-10-23/",
+      "spotify_url": "https://open.spotify.com/album/4Qy4QeE6QL941JsIyEVqF2",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e02477e1c8155bcd3394113fc05"
+    },
+    {
+      "artist": "Wishy",
+      "title": "Nature's Pill",
+      "year": 2026,
+      "sources": "PopMatters",
+      "description": "Indianapolis indie poppers elevate their sound with new levels of craftsmanship and catchiness, delivering one of the year's best records with their vibrant and engaging tracks.",
+      "aligned": true,
+      "review_url": "https://www.popmatters.com/music/reviews"
+    },
+    {
+      "artist": "Ugly",
+      "title": "The South Facade",
+      "year": 2026,
+      "sources": "The Line of Best Fit",
+      "description": "This sparkling, proggy debut is praised for its endless creativity, juxtaposing brutal musicianship with ultra-sweet melodies, creating an album that is both groundbreaking and never a chore.",
+      "aligned": false,
+      "review_url": "https://www.thelineofbestfit.com/reviews/albums/ugly-the-south-facade-review-joy-in-complexity",
+      "spotify_url": "https://open.spotify.com/album/3rx3E58LXTjVFsgzu7DYP9",
+      "cover_url": "https://i.scdn.co/image/ab67616d00001e029dff900a9134306291c963b3"
+    }
+  ],
+  "footer": "7 albums recommended this week · AI powered by Gi :)"
+}
